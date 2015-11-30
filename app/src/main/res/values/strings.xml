@@ -19,7 +19,7 @@
 
     <!-- App -->
     <string name="app_name">ResurrectionOTA</string>
-    <string name="app_title">ResurrectionOTA</string>
+    <string name="app_title">Updates</string>
 
     <!-- Categories -->
     <string name="ota_category">OTA</string>
