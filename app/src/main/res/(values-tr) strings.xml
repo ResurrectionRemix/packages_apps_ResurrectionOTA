@@ -18,7 +18,7 @@
 <resources>
 
     <!-- App -->
-    <string name="app_name">ResurrectionOTA</string>
+    <string name="app_name">Güncellemeler</string>
     <string name="app_title">Güncellemeler</string>
 
     <!-- Categories -->
