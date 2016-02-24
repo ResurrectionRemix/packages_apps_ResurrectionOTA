@@ -17,9 +17,9 @@
 
 <resources>
     <string-array name="interval_entries">
-        <item>ºñÈ°¼ºÈ­µÊ</item>
-        <item>¸Å½Ã°£¸¶´Ù</item>
-        <item>12½Ã°£¸¶´Ù</item>
-        <item>24½Ã°£¸¶´Ù</item>
+        <item>ìž¥ì• ì¸</item>
+        <item>ë§¤ì‹œê°„ë§ˆë‹¤</item>
+        <item>12ì‹œê°„ë§ˆë‹¤</item>
+        <item>24ì‹œê°„ë§ˆë‹¤</item>
     </string-array>
 </resources>
