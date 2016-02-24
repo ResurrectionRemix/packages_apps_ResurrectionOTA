@@ -17,7 +17,7 @@
 
 <resources>
     <string-array name="interval_entries">
-        <item>장애인</item>
+        <item>비활성화됨</item>
         <item>매시간마다</item>
         <item>12시간마다</item>
         <item>24시간마다</item>
