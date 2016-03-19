@@ -34,8 +34,8 @@
     <string name="check_update_title">Nach Updates suchen</string>
     <string name="last_check_summary">Zuletzt gesucht: %1$s</string>
     <string name="last_check_never">Nie</string>
-    <string name="check_update_failed">Überprüfung nicht möglich</string>
-    <string name="no_update_available">Kein Update verfügbar</string>
+    <string name="check_update_failed">&#220;berpr&#252;fung nicht m&#246;glich</string>
+    <string name="no_update_available">Kein Update verf&#252;gbar</string>
 
     <!-- Update interval -->
     <string name="interval_title">Automatisch nach Updates suchen</string>
@@ -44,7 +44,7 @@
 
     <!-- Notification -->
     <string name="notification_title">ROM-Update</string>
-    <string name="notification_message">Ein neues Update ist verfügbar!</string>
+    <string name="notification_message">Ein neues Update ist verf&#252;gbar!</string>
 
     <!-- Dialog -->
     <string name="dialog_message">Nach Aktualisierungen wird gesucht, bitte warten…</string>
