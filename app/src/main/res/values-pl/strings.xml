@@ -17,19 +17,19 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Updates</string>
-  <string name="app_title">Updates</string>
+  <string name="app_name">Aktualizacje</string>
+  <string name="app_title">Aktualizacje</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Links</string>
+  <string name="links_category">Linki</string>
   <!-- ROM info -->
-  <string name="latest_version">Latest version: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="latest_version">Najnowsza wersja: %1$s</string>
+  <string name="unknown">Nieznany</string>
+  <string name="system_uptodate">Twój system jest aktualny</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
-  <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
+  <string name="check_update_title">Sprawdź aktualizacje</string>
+  <string name="last_check_summary">Ostatnio sprawdzane: %1$s</string>
+  <string name="last_check_never">Nigdy</string>
   <string name="check_update_failed">Can\'t check update</string>
   <string name="no_update_available">No update available</string>
   <!-- Update interval -->
