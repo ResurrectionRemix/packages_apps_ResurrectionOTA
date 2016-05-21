@@ -40,5 +40,5 @@
   <string name="notification_title">系统更新</string>
   <string name="notification_message">有可用更新！</string>
   <!-- Dialog -->
-  <string name="dialog_message">检查更新中，请等候&#8230;</string>
+  <string name="dialog_message">检查更新中，请稍候&#8230;</string>
 </resources>
