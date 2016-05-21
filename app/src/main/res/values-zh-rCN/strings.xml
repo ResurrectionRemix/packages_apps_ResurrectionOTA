@@ -17,28 +17,28 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Updates</string>
-  <string name="app_title">Updates</string>
+  <string name="app_name">更新</string>
+  <string name="app_title">更新</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Links</string>
+  <string name="links_category">链接</string>
   <!-- ROM info -->
-  <string name="latest_version">Latest version: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="latest_version">最新版本: %1$s</string>
+  <string name="unknown">未知</string>
+  <string name="system_uptodate">你的系统已经是最新版本</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
-  <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
-  <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="check_update_title">检查更新</string>
+  <string name="last_check_summary">上次检查: %1$s</string>
+  <string name="last_check_never">从未</string>
+  <string name="check_update_failed">无法检测更新</string>
+  <string name="no_update_available">没有可用的更新</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="interval_title">自动检测更新的时间间隔</string>
+  <string name="autoupdate_enabled">已开启自动更新</string>
+  <string name="autoupdate_disabled">已关闭自动更新</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
-  <string name="notification_message">New update available!</string>
+  <string name="notification_title">系统更新</string>
+  <string name="notification_message">有可用更新！</string>
   <!-- Dialog -->
-  <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
+  <string name="dialog_message">检查更新中，请稍候&#8230;</string>
 </resources>
