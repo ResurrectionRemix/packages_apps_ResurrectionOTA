@@ -23,22 +23,22 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Links</string>
   <!-- ROM info -->
-  <string name="latest_version">Nieuwste versie: %1$s</string>
-  <string name="unknown">Onbekend</string>
-  <string name="system_uptodate">Uw systeem is up to date</string>
+  <string name="latest_version">Latest version: %1$s</string>
+  <string name="unknown">Unknown</string>
+  <string name="system_uptodate">Your system is up to date</string>
   <!-- Check update -->
-  <string name="check_update_title">Controleren op Updates</string>
-  <string name="last_check_summary">Laatste controle: %1$s</string>
-  <string name="last_check_never">Nooit</string>
-  <string name="check_update_failed">Kan niet controleren op updates</string>
-  <string name="no_update_available">Geen update beschikbaar</string>
+  <string name="check_update_title">Check update</string>
+  <string name="last_check_summary">Last check: %1$s</string>
+  <string name="last_check_never">Never</string>
+  <string name="check_update_failed">Can\'t check update</string>
+  <string name="no_update_available">No update available</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatische update interval</string>
-  <string name="autoupdate_enabled">Automatische updates zijn ingeschakeld</string>
-  <string name="autoupdate_disabled">Automatische updates zijn uitgeschakeld</string>
+  <string name="interval_title">Automatic update interval</string>
+  <string name="autoupdate_enabled">Automatic update is enabled</string>
+  <string name="autoupdate_disabled">Automatic update is disabled</string>
   <!-- Notification -->
   <string name="notification_title">ROM Update</string>
-  <string name="notification_message">Nieuwe update beschikbaar!</string>
+  <string name="notification_message">New update available!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Zoeken naar ROM updates, een moment geduld a. u. b&#8230;</string>
+  <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
 </resources>

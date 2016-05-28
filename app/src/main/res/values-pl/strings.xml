@@ -30,15 +30,15 @@
   <string name="check_update_title">Sprawdź aktualizacje</string>
   <string name="last_check_summary">Ostatnio sprawdzane: %1$s</string>
   <string name="last_check_never">Nigdy</string>
-  <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="check_update_failed">Nie można sprawdzić aktualizacji</string>
+  <string name="no_update_available">Brak dostępnych aktualizacji</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="interval_title">Częstotliwość sprawdzania automatycznych aktualizacji</string>
+  <string name="autoupdate_enabled">Aktualizacje automatyczne są włączone</string>
+  <string name="autoupdate_disabled">Aktualizacje automatyczne są wyłączone</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
-  <string name="notification_message">New update available!</string>
+  <string name="notification_title">Aktualizacja ROM\'u</string>
+  <string name="notification_message">Dostępna jest nowa aktualizacja!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
+  <string name="dialog_message">Sprawdzam aktualizacje ROM\'u, proszę czekać&#8230;</string>
 </resources>

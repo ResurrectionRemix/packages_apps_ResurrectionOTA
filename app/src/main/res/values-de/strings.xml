@@ -17,15 +17,15 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Aktualisierungen</string>
-  <string name="app_title">Aktualisierungen</string>
+  <string name="app_name">Updates</string>
+  <string name="app_title">Updates</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
   <string name="links_category">Links</string>
   <!-- ROM info -->
   <string name="latest_version">Neueste Version: %1$s</string>
   <string name="unknown">Unbekannt</string>
-  <string name="system_uptodate">Ihr System ist auf dem neuesten Stand.</string>
+  <string name="system_uptodate">Ihr System ist auf dem neuesten Stand</string>
   <!-- Check update -->
   <string name="check_update_title">Nach Update suchen</string>
   <string name="last_check_summary">Zuletzt gesucht: %1$s</string>
@@ -34,8 +34,8 @@
   <string name="no_update_available">Kein Update verfügbar</string>
   <!-- Update interval -->
   <string name="interval_title">Automatisch nach Updates suchen</string>
-  <string name="autoupdate_enabled">Die automatische Suche ist aktiviert.</string>
-  <string name="autoupdate_disabled">Die automatische Suche ist deaktiviert.</string>
+  <string name="autoupdate_enabled">Automatische Updates sind aktiviert</string>
+  <string name="autoupdate_disabled">Automatische Updates sind deaktiviert</string>
   <!-- Notification -->
   <string name="notification_title">ROM-Update</string>
   <string name="notification_message">Ein neues Update ist verfügbar!</string>

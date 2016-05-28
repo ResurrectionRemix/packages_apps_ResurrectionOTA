@@ -37,7 +37,7 @@
   <string name="autoupdate_enabled">Automatikus frissítés engedélyezve van</string>
   <string name="autoupdate_disabled">Automatikus frissítés le van tiltva</string>
   <!-- Notification -->
-  <string name="notification_title">ROM frissítés</string>
+  <string name="notification_title">ROM-frissítés</string>
   <string name="notification_message">Új frissítés érhető el!</string>
   <!-- Dialog -->
   <string name="dialog_message">ROM frissítések keresése, kis türelmet&#8230;</string>

@@ -24,21 +24,21 @@
   <string name="links_category">Посилання</string>
   <!-- ROM info -->
   <string name="latest_version">Остання версія: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="unknown">Невідомий</string>
+  <string name="system_uptodate">Ваша система є актуальна</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
-  <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
-  <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="check_update_title">Перевірити оновлення</string>
+  <string name="last_check_summary">Остання перевірка: %1$s</string>
+  <string name="last_check_never">Ніколи</string>
+  <string name="check_update_failed">Не вдалося перевірити оновлення</string>
+  <string name="no_update_available">Оновлень не знайдено</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="interval_title">Інтервал автоматичного оновлення</string>
+  <string name="autoupdate_enabled">Автоматичне оновлення увімкнено</string>
+  <string name="autoupdate_disabled">Автоматичне оновлення вимкнено</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
-  <string name="notification_message">New update available!</string>
+  <string name="notification_title">Оновлення прошивки</string>
+  <string name="notification_message">Доступне оновлення!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
+  <string name="dialog_message">Перевірка оновлень, будь ласка, зачекайте&#8230;</string>
 </resources>

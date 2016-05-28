@@ -17,28 +17,28 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Updates</string>
-  <string name="app_title">Updates</string>
+  <string name="app_name">Actualizaciones</string>
+  <string name="app_title">Actualizaciones</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Links</string>
+  <string name="links_category">Enlaces</string>
   <!-- ROM info -->
-  <string name="latest_version">Latest version: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="latest_version">Última versión: %1$s</string>
+  <string name="unknown">Desconocido</string>
+  <string name="system_uptodate">Tu sistema está actualizado</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
-  <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
-  <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="check_update_title">Comprobar las actualizaciones</string>
+  <string name="last_check_summary">Última comprobación: %1$s</string>
+  <string name="last_check_never">Nunca</string>
+  <string name="check_update_failed">No se puede comprobar la actualizacion</string>
+  <string name="no_update_available">No hay actualizaciones disponibles</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="interval_title">Intervalo de actualización automatica</string>
+  <string name="autoupdate_enabled">Actualización automática activada</string>
+  <string name="autoupdate_disabled">Actualización automática desactivada</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
-  <string name="notification_message">New update available!</string>
+  <string name="notification_title">Actualización de ROM</string>
+  <string name="notification_message">¡Nueva actualización disponible!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
+  <string name="dialog_message">Comprobando actualizaciones de la ROM, por favor espere&#8230;</string>
 </resources>
