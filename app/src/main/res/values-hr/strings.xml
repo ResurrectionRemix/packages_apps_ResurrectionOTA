@@ -17,28 +17,28 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Updates</string>
-  <string name="app_title">Updates</string>
+  <string name="app_name">Ažuriranja</string>
+  <string name="app_title">Ažuriranja</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Links</string>
+  <string name="links_category">Poveznice</string>
   <!-- ROM info -->
-  <string name="latest_version">Latest version: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="latest_version">Najnovija inačica: %1$s</string>
+  <string name="unknown">Nepoznato</string>
+  <string name="system_uptodate">Vaš je sustav ažuran.</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
-  <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
-  <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="check_update_title">Provjeri ažuriranja</string>
+  <string name="last_check_summary">Posljednja provjera: %1$s</string>
+  <string name="last_check_never">Nikad</string>
+  <string name="check_update_failed">Nije moguće provjeriti ažuriranja.</string>
+  <string name="no_update_available">Nema dostupnih ažuriranja.</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
+  <string name="interval_title">Interval automatskog ažuriranja</string>
+  <string name="autoupdate_enabled">Automatsko ažuriranje je omogućeno.</string>
   <string name="autoupdate_disabled">Automatic update is disabled</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
-  <string name="notification_message">New update available!</string>
+  <string name="notification_title">Ažuriranje ROM-a</string>
+  <string name="notification_message">Dostupno je novo ažuriranje!</string>
   <!-- Dialog -->
   <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
 </resources>

@@ -17,27 +17,27 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Updates</string>
-  <string name="app_title">Updates</string>
+  <string name="app_name">अद्यतन</string>
+  <string name="app_title">अद्यतन</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
   <string name="links_category">Links</string>
   <!-- ROM info -->
-  <string name="latest_version">Latest version: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="latest_version">नवीनतम संस्करण:%1$s</string>
+  <string name="unknown">अज्ञात</string>
+  <string name="system_uptodate">आपका सिस्टम अपडेट नवीनतम है।</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
+  <string name="check_update_title">अपडेट के लिए जाँच करें</string>
   <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
+  <string name="last_check_never">कभी नहीं</string>
   <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="no_update_available">कोई अद्यतक उपलब्ध नहीं</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="interval_title">स्वत: अद्यतन अंतराल</string>
+  <string name="autoupdate_enabled">स्वत: अद्यतन सक्षम किया गया है</string>
+  <string name="autoupdate_disabled">स्वत: अद्यतन अक्षम किया गया है</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
+  <string name="notification_title">ROM अद्यतन</string>
   <string name="notification_message">New update available!</string>
   <!-- Dialog -->
   <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
