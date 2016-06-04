@@ -33,7 +33,7 @@
   <string name="check_update_failed">アップデートを確認できませんでした</string>
   <string name="no_update_available">利用可能なアップデートはありません</string>
   <!-- Update interval -->
-  <string name="interval_title">自動アップデートを行う感覚</string>
+  <string name="interval_title">自動アップデートを行う間隔</string>
   <string name="autoupdate_enabled">自動アップデートは有効です</string>
   <string name="autoupdate_disabled">自動アップデートは無効です</string>
   <!-- Notification -->

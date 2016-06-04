@@ -35,10 +35,10 @@
   <!-- Update interval -->
   <string name="interval_title">Interval automatskog ažuriranja</string>
   <string name="autoupdate_enabled">Automatsko ažuriranje je omogućeno.</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="autoupdate_disabled">Automatsko ažuriranje je onemogućeno.</string>
   <!-- Notification -->
   <string name="notification_title">Ažuriranje ROM-a</string>
   <string name="notification_message">Dostupno je novo ažuriranje!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
+  <string name="dialog_message">Traženje ažuriranja sustava, molimo pričekajte&#8230;</string>
 </resources>
