@@ -21,7 +21,7 @@
   <string name="app_title">Atualizações</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Ligações</string>
+  <string name="links_category">Links</string>
   <!-- ROM info -->
   <string name="latest_version">Última versão: %1$s</string>
   <string name="unknown">Desconhecida</string>
@@ -40,5 +40,5 @@
   <string name="notification_title">Atualização de ROM</string>
   <string name="notification_message">Nova atualização disponível!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Verificação de atualizações ROM, aguarde&#8230;</string>
+  <string name="dialog_message">Verificação de atualizações da ROM, aguarde&#8230;</string>
 </resources>
