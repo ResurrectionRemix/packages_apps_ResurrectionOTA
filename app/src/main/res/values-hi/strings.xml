@@ -28,7 +28,7 @@
   <string name="system_uptodate">आपका सिस्टम अपडेट नवीनतम है।</string>
   <!-- Check update -->
   <string name="check_update_title">अपडेट के लिए जाँच करें</string>
-  <string name="last_check_summary">अंतिम चेक</string>
+  <string name="last_check_summary">अंतिम जांच: %1$s</string>
   <string name="last_check_never">कभी नहीं</string>
   <string name="check_update_failed">अपडेट की जाँच नहीं कर सकता</string>
   <string name="no_update_available">कोई अद्यतक उपलब्ध नहीं</string>
