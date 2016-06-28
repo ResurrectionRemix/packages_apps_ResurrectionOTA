@@ -17,18 +17,18 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Updates</string>
-  <string name="app_title">Updates</string>
+  <string name="app_name">Uppdateringar</string>
+  <string name="app_title">Uppdateringar</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Links</string>
+  <string name="links_category">Länkar</string>
   <!-- ROM info -->
-  <string name="latest_version">Latest version: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="latest_version">Senaste version: %1$s</string>
+  <string name="unknown">Okänd</string>
+  <string name="system_uptodate">Ditt system är uppdaterat</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
-  <string name="last_check_summary">Last check: %1$s</string>
+  <string name="check_update_title">Sök uppdatering</string>
+  <string name="last_check_summary">Senaste kontroll: %1$s</string>
   <string name="last_check_never">Never</string>
   <string name="check_update_failed">Can\'t check update</string>
   <string name="no_update_available">No update available</string>
@@ -38,7 +38,7 @@
   <string name="autoupdate_disabled">Automatic update is disabled</string>
   <!-- Notification -->
   <string name="notification_title">ROM Update</string>
-  <string name="notification_message">New update available!</string>
+  <string name="notification_message">Ny uppdatering tillgänglig!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
+  <string name="dialog_message">Söker efter uppdateringar, var god vänta&#8230;</string>
 </resources>
