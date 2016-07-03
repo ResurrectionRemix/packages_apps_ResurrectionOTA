@@ -24,8 +24,8 @@
   <string name="links_category">Посилання</string>
   <!-- ROM info -->
   <string name="latest_version">Остання версія: %1$s</string>
-  <string name="unknown">Невідомий</string>
-  <string name="system_uptodate">Ваша система є актуальна</string>
+  <string name="unknown">Невідомо</string>
+  <string name="system_uptodate">Ваша система знаходиться в актуальному стані</string>
   <!-- Check update -->
   <string name="check_update_title">Перевірити оновлення</string>
   <string name="last_check_summary">Остання перевірка: %1$s</string>

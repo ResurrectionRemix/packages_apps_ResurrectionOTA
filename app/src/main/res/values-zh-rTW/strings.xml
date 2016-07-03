@@ -21,7 +21,7 @@
   <string name="app_title">更新</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">鏈結</string>
+  <string name="links_category">連結</string>
   <!-- ROM info -->
   <string name="latest_version">最新版本：%1$s</string>
   <string name="unknown">不明</string>
@@ -34,8 +34,8 @@
   <string name="no_update_available">沒有可用的更新</string>
   <!-- Update interval -->
   <string name="interval_title">自動更新頻率</string>
-  <string name="autoupdate_enabled">已啟動自動更新</string>
-  <string name="autoupdate_disabled">已停用自動更新</string>
+  <string name="autoupdate_enabled">自動更新已啟用</string>
+  <string name="autoupdate_disabled">自動更新已停用</string>
   <!-- Notification -->
   <string name="notification_title">ROM 更新</string>
   <string name="notification_message">有可用的更新！</string>
