@@ -40,5 +40,5 @@
   <string name="notification_title">ROM 업데이트</string>
   <string name="notification_message">사용가능한 업데이트가 있습니다.</string>
   <!-- Dialog -->
-  <string name="dialog_message">ROM업데이트 확인중, 잠시만 기다려 주세요...</string>
+  <string name="dialog_message">ROM 업데이트 확인중, 잠시만 기다려 주세요...</string>
 </resources>
