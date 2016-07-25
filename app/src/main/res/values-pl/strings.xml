@@ -24,11 +24,11 @@
   <string name="links_category">Linki</string>
   <!-- ROM info -->
   <string name="latest_version">Najnowsza wersja: %1$s</string>
-  <string name="unknown">Nieznany</string>
+  <string name="unknown">Brak informacji</string>
   <string name="system_uptodate">Twój system jest aktualny</string>
   <!-- Check update -->
-  <string name="check_update_title">Sprawdź aktualizacje</string>
-  <string name="last_check_summary">Ostatnio sprawdzane: %1$s</string>
+  <string name="check_update_title">Sprawdź aktualizację</string>
+  <string name="last_check_summary">Ostatnio sprawdzone: %1$s</string>
   <string name="last_check_never">Nigdy</string>
   <string name="check_update_failed">Nie można sprawdzić aktualizacji</string>
   <string name="no_update_available">Brak dostępnych aktualizacji</string>
