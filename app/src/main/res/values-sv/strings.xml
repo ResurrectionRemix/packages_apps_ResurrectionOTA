@@ -29,15 +29,15 @@
   <!-- Check update -->
   <string name="check_update_title">Sök uppdatering</string>
   <string name="last_check_summary">Senaste kontroll: %1$s</string>
-  <string name="last_check_never">Never</string>
-  <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="last_check_never">Aldrig</string>
+  <string name="check_update_failed">Kan inte söka efter uppdatering</string>
+  <string name="no_update_available">Inga uppdateringar tillgängliga</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="interval_title">Intervall för automatisk uppdatering</string>
+  <string name="autoupdate_enabled">Automatisk uppdatering är aktiverat</string>
+  <string name="autoupdate_disabled">Automatisk uppdatering är inaktiverat</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
+  <string name="notification_title">ROM uppdatering</string>
   <string name="notification_message">Ny uppdatering tillgänglig!</string>
   <!-- Dialog -->
   <string name="dialog_message">Söker efter uppdateringar, var god vänta&#8230;</string>

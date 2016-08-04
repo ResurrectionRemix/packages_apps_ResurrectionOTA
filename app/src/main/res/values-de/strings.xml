@@ -17,8 +17,8 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Updates</string>
-  <string name="app_title">Updates</string>
+  <string name="app_name">Aktualisierungen</string>
+  <string name="app_title">Aktualisierungen</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
   <string name="links_category">Links</string>
