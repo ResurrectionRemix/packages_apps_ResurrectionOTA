@@ -34,6 +34,10 @@
   <string name="no_update_available">कोई अद्यतक उपलब्ध नहीं</string>
   <!-- Update interval -->
   <string name="interval_title">स्वत: अद्यतन अंतराल</string>
+  <string name="interval_entry_disable">Disabled</string>
+  <string name="interval_entry_1h">Every hour</string>
+  <string name="interval_entry_12h">Every 12 hours</string>
+  <string name="interval_entry_24h">Every 24 hours</string>
   <string name="autoupdate_enabled">स्वत: अद्यतन सक्षम किया गया है</string>
   <string name="autoupdate_disabled">स्वत: अद्यतन अक्षम किया गया है</string>
   <!-- Notification -->

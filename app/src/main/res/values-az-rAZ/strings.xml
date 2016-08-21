@@ -17,28 +17,32 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Updates</string>
-  <string name="app_title">Updates</string>
+  <string name="app_name">Yeniləmələr</string>
+  <string name="app_title">Yeniləmələr</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Links</string>
+  <string name="links_category">Əlaqələr</string>
   <!-- ROM info -->
-  <string name="latest_version">Latest version: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="latest_version">Ən son versiya: %1$s</string>
+  <string name="unknown">Naməlum</string>
+  <string name="system_uptodate">Sisteminiz ən son yeniliyə malikdir</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
-  <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
-  <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="check_update_title">Yenilənmələri yoxla</string>
+  <string name="last_check_summary">Son yoxlanış: %1$s</string>
+  <string name="last_check_never">Heçvaxt</string>
+  <string name="check_update_failed">Yeniləmələr yoxlanıla bilmir</string>
+  <string name="no_update_available">Yeniləmə mövcud deyil</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="interval_title">Avtomatik yeniləmə intervalı</string>
+  <string name="interval_entry_disable">Disabled</string>
+  <string name="interval_entry_1h">Every hour</string>
+  <string name="interval_entry_12h">Every 12 hours</string>
+  <string name="interval_entry_24h">Every 24 hours</string>
+  <string name="autoupdate_enabled">Avtomatik yeniləmə intervalı aktivdir</string>
+  <string name="autoupdate_disabled">Avtomatik yeniləmə intervalı deaktivdir</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
-  <string name="notification_message">New update available!</string>
+  <string name="notification_title">ROM yeniləmə</string>
+  <string name="notification_message">Yeniləmə mövcuddur!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
+  <string name="dialog_message">Rom yenilənmələri yoxlanılır xahiş edirik gözləyin&#8230;</string>
 </resources>

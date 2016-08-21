@@ -34,6 +34,10 @@
   <string name="no_update_available">Güncelleme mevcut değil</string>
   <!-- Update interval -->
   <string name="interval_title">Otomatik güncelleme aralığı</string>
+  <string name="interval_entry_disable">Disabled</string>
+  <string name="interval_entry_1h">Every hour</string>
+  <string name="interval_entry_12h">Every 12 hours</string>
+  <string name="interval_entry_24h">Every 24 hours</string>
   <string name="autoupdate_enabled">Otomatik güncelleme etkin</string>
   <string name="autoupdate_disabled">Otomatik güncelleme devre dışı</string>
   <!-- Notification -->

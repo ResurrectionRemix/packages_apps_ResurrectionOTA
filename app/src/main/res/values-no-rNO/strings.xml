@@ -34,6 +34,10 @@
   <string name="no_update_available">No update available</string>
   <!-- Update interval -->
   <string name="interval_title">Automatic update interval</string>
+  <string name="interval_entry_disable">Disabled</string>
+  <string name="interval_entry_1h">Every hour</string>
+  <string name="interval_entry_12h">Every 12 hours</string>
+  <string name="interval_entry_24h">Every 24 hours</string>
   <string name="autoupdate_enabled">Automatic update is enabled</string>
   <string name="autoupdate_disabled">Automatic update is disabled</string>
   <!-- Notification -->
