@@ -28,20 +28,20 @@
   <string name="system_uptodate">Sistem anda terbaru</string>
   <!-- Check update -->
   <string name="check_update_title">Periksa pembaruan</string>
-  <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
-  <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="last_check_summary">Terakhir diperiksa: %1$s</string>
+  <string name="last_check_never">Jangan pernah</string>
+  <string name="check_update_failed">Gagal memeriksa pembaruan</string>
+  <string name="no_update_available">Pembaruan tidak tersedia</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="interval_title">Selang waktu pembaruan otomatis</string>
+  <string name="interval_entry_disable">Tidak aktif</string>
+  <string name="interval_entry_1h">Setiap jam</string>
+  <string name="interval_entry_12h">Setiap 12 jam</string>
+  <string name="interval_entry_24h">Setiap 24 jam</string>
+  <string name="autoupdate_enabled">Pembaruan otomatis aktif</string>
+  <string name="autoupdate_disabled">Pembaruan otomatis mati</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
+  <string name="notification_title">Pembaruan ROM</string>
   <string name="notification_message">Pembaruan Terkini Tersedia!</string>
   <!-- Dialog -->
   <string name="dialog_message">Memeriksa pembaruan ROM, harap tunggu&#8230;</string>

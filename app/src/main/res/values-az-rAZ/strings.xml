@@ -34,10 +34,10 @@
   <string name="no_update_available">Yeniləmə mövcud deyil</string>
   <!-- Update interval -->
   <string name="interval_title">Avtomatik yeniləmə intervalı</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
+  <string name="interval_entry_disable">Ləğv edildi</string>
+  <string name="interval_entry_1h">Hər saat</string>
+  <string name="interval_entry_12h">Hər 12 saatdan</string>
+  <string name="interval_entry_24h">Hər 24 saatdan</string>
   <string name="autoupdate_enabled">Avtomatik yeniləmə intervalı aktivdir</string>
   <string name="autoupdate_disabled">Avtomatik yeniləmə intervalı deaktivdir</string>
   <!-- Notification -->

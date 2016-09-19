@@ -34,10 +34,10 @@
   <string name="no_update_available">Nincs elérhető frissítés</string>
   <!-- Update interval -->
   <string name="interval_title">Automatikus frissítési időköz</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
+  <string name="interval_entry_disable">Letiltva</string>
+  <string name="interval_entry_1h">Óránként</string>
+  <string name="interval_entry_12h">12 óránként</string>
+  <string name="interval_entry_24h">24 óránként</string>
   <string name="autoupdate_enabled">Automatikus frissítés engedélyezve van</string>
   <string name="autoupdate_disabled">Automatikus frissítés le van tiltva</string>
   <!-- Notification -->

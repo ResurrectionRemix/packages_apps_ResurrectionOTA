@@ -34,10 +34,10 @@
   <string name="no_update_available">无可用更新</string>
   <!-- Update interval -->
   <string name="interval_title">自动更新间隔</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
+  <string name="interval_entry_disable">禁用</string>
+  <string name="interval_entry_1h">每小时</string>
+  <string name="interval_entry_12h">每12小时</string>
+  <string name="interval_entry_24h">每 24 小时</string>
   <string name="autoupdate_enabled">自动更新已启用</string>
   <string name="autoupdate_disabled">自动更新已禁用</string>
   <!-- Notification -->

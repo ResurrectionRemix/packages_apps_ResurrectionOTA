@@ -34,10 +34,10 @@
   <string name="no_update_available">Inga uppdateringar tillgängliga</string>
   <!-- Update interval -->
   <string name="interval_title">Intervall för automatisk uppdatering</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
+  <string name="interval_entry_disable">Inaktiverad</string>
+  <string name="interval_entry_1h">Varje timme</string>
+  <string name="interval_entry_12h">Var 12:e timme</string>
+  <string name="interval_entry_24h">Var 24:e timme</string>
   <string name="autoupdate_enabled">Automatisk uppdatering är aktiverat</string>
   <string name="autoupdate_disabled">Automatisk uppdatering är inaktiverat</string>
   <!-- Notification -->

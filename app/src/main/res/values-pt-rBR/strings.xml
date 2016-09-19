@@ -34,10 +34,10 @@
   <string name="no_update_available">Nenhuma atualização disponível</string>
   <!-- Update interval -->
   <string name="interval_title">Intervalo de atualização automática</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
+  <string name="interval_entry_disable">Desabilitado</string>
+  <string name="interval_entry_1h">A cada hora</string>
+  <string name="interval_entry_12h">A cada 12 horas</string>
+  <string name="interval_entry_24h">A cada 24 horas</string>
   <string name="autoupdate_enabled">Atualização automática está habilitada</string>
   <string name="autoupdate_disabled">Atualização automática está desativada</string>
   <!-- Notification -->

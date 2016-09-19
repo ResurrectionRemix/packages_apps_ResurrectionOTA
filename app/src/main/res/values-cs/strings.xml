@@ -23,7 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Odkazy</string>
   <!-- ROM info -->
-  <string name="latest_version">Poslední verze: %1$s</string>
+  <string name="latest_version">Nejnovější verze: %1$s</string>
   <string name="unknown">Neznámé</string>
   <string name="system_uptodate">Váš systém je aktuální</string>
   <!-- Check update -->
@@ -34,10 +34,10 @@
   <string name="no_update_available">Nejsou dostupné žádné aktualizace</string>
   <!-- Update interval -->
   <string name="interval_title">Interval automatické aktualizace</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
+  <string name="interval_entry_disable">Vypnuto</string>
+  <string name="interval_entry_1h">Každou hodinu</string>
+  <string name="interval_entry_12h">Každých 12 hodin</string>
+  <string name="interval_entry_24h">Každých 24 hodin</string>
   <string name="autoupdate_enabled">Automatická aktualizace je povolena</string>
   <string name="autoupdate_disabled">Automatická aktualizace je zakázána</string>
   <!-- Notification -->

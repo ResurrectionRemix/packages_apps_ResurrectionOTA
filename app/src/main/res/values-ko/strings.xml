@@ -34,10 +34,10 @@
   <string name="no_update_available">사용가능한 업데이트가 없습니다.</string>
   <!-- Update interval -->
   <string name="interval_title">자동 업데이트 간격</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
+  <string name="interval_entry_disable">비활성화</string>
+  <string name="interval_entry_1h">매 시간 마다</string>
+  <string name="interval_entry_12h">12시간 마다</string>
+  <string name="interval_entry_24h">24시간 마다</string>
   <string name="autoupdate_enabled">자동 업데이트 사용</string>
   <string name="autoupdate_disabled">자동 업데이트 비활성화</string>
   <!-- Notification -->

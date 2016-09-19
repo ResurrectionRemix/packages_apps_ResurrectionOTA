@@ -34,10 +34,10 @@
   <string name="no_update_available">Нема надоградњи</string>
   <!-- Update interval -->
   <string name="interval_title">Аутоматски интервал провере</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
+  <string name="interval_entry_disable">Искључено</string>
+  <string name="interval_entry_1h">сваки сат</string>
+  <string name="interval_entry_12h">сваких 12 сати</string>
+  <string name="interval_entry_24h">свака 24 сата</string>
   <string name="autoupdate_enabled">Аутоматско ажурирање је укључено</string>
   <string name="autoupdate_disabled">Аутоматско ажурирање је искључено</string>
   <!-- Notification -->
