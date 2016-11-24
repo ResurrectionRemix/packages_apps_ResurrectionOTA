@@ -17,8 +17,8 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Aktualizácia</string>
-  <string name="app_title">Aktualizácia</string>
+  <string name="app_name">Aktualizácie</string>
+  <string name="app_title">Aktualizácie</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
   <string name="links_category">Odkazy</string>
@@ -30,7 +30,7 @@
   <string name="check_update_title">Skontrolovať aktualizáciu</string>
   <string name="last_check_summary">Posledná kontrola: %1$s</string>
   <string name="last_check_never">Nikdy</string>
-  <string name="check_update_failed">Nemožno kontrolovať aktualizácie</string>
+  <string name="check_update_failed">Nieje možné skontrolovať aktualizácie</string>
   <string name="no_update_available">Neboli nájdené žiadne aktualizácie</string>
   <!-- Update interval -->
   <string name="interval_title">Interval automatickej aktualizácie</string>

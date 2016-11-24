@@ -38,11 +38,11 @@
   <string name="interval_entry_1h">Mỗi giờ</string>
   <string name="interval_entry_12h">Mỗi 12 giờ</string>
   <string name="interval_entry_24h">Mỗi 24 giờ</string>
-  <string name="autoupdate_enabled">Cập nhật tự động được kích hoạt</string>
-  <string name="autoupdate_disabled">Cập nhật tự động đã tắt</string>
+  <string name="autoupdate_enabled">Cập nhật tự động được bật</string>
+  <string name="autoupdate_disabled">Cập nhật tự động bị tắt</string>
   <!-- Notification -->
-  <string name="notification_title">ROM cập nhật</string>
-  <string name="notification_message">Bản cập nhật mới sẵn sàng!</string>
+  <string name="notification_title">Cập nhật ROM</string>
+  <string name="notification_message">Bản cập nhật mới có sẵn!</string>
   <!-- Dialog -->
   <string name="dialog_message">Đang kiểm tra cập nhật ROM, vui lòng chờ&#8230;</string>
 </resources>

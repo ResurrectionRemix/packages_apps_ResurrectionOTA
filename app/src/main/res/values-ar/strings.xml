@@ -17,32 +17,32 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Updates</string>
+  <string name="app_name">التحديثات</string>
   <string name="app_title">التحديثات</string>
   <!-- Categories -->
-  <string name="ota_category">OTA</string>
+  <string name="ota_category">أو تي أي</string>
   <string name="links_category">الروابط</string>
   <!-- ROM info -->
   <string name="latest_version">أحدث إصدار: %1$s</string>
   <string name="unknown">مجهول</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="system_uptodate">النظام الخاص بك محدث</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
-  <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
-  <string name="check_update_failed">Can\'t check update</string>
+  <string name="check_update_title">التحقق من التحديثات</string>
+  <string name="last_check_summary">آخر مزامنة: %1$s</string>
+  <string name="last_check_never">أبداً</string>
+  <string name="check_update_failed">لا يمكن التحقق من التحديث</string>
   <string name="no_update_available">لا تتوفر تحديثات</string>
   <!-- Update interval -->
   <string name="interval_title">الفاصل الزمني للتحديث التلقائي</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="interval_entry_disable">غير مُفعّل</string>
+  <string name="interval_entry_1h">كل ساعة</string>
+  <string name="interval_entry_12h">كل 12 ساعة</string>
+  <string name="interval_entry_24h">كل ٢٤ ساعة</string>
+  <string name="autoupdate_enabled">تفعيل التحديث التلقائي</string>
+  <string name="autoupdate_disabled">ايقاف التحديث التلقائي</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
-  <string name="notification_message">New update available!</string>
+  <string name="notification_title">تحديث الروم</string>
+  <string name="notification_message">تحديثات جديدة متوفرة!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
+  <string name="dialog_message">يتم البحث عن تحديثات الروم, برجاء الانتظار&#8230;</string>
 </resources>
