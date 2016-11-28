@@ -42,7 +42,7 @@
   <string name="autoupdate_disabled">Автоматичне оновлення вимкнено</string>
   <!-- Notification -->
   <string name="notification_title">Оновлення прошивки</string>
-  <string name="notification_message">Доступне оновлення!</string>
+  <string name="notification_message">Доступно нове оновлення!</string>
   <!-- Dialog -->
   <string name="dialog_message">Перевірка оновлень, будь ласка, зачекайте&#8230;</string>
 </resources>

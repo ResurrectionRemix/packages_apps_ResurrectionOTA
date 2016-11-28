@@ -17,32 +17,10 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Opdateringer</string>
-  <string name="app_title">Opdateringer</string>
   <!-- Categories -->
-  <string name="ota_category">OTA</string>
-  <string name="links_category">Links</string>
   <!-- ROM info -->
-  <string name="latest_version">Seneste udgave: %1$s</string>
-  <string name="unknown">Ukendt</string>
-  <string name="system_uptodate">Dit system er ajour</string>
   <!-- Check update -->
-  <string name="check_update_title">Tjek for opdateringer</string>
-  <string name="last_check_summary">Seneste tjek: %1$s</string>
-  <string name="last_check_never">Aldrig</string>
-  <string name="check_update_failed">Kan ikke tjekke opdateringer</string>
-  <string name="no_update_available">Ingen opdateringer tilgængelige</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatiske opdateringsinterval</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
-  <string name="autoupdate_enabled">Automatiske opdateringer er aktiveret</string>
-  <string name="autoupdate_disabled">Automatiske opdateringer er deaktiveret</string>
   <!-- Notification -->
-  <string name="notification_title">ROM-opdatering</string>
-  <string name="notification_message">Ny opdatering tilgængelig!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Søger efter ROM opdateringer, vent venligst&#8230;</string>
 </resources>

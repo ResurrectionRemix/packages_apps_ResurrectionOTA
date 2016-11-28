@@ -34,12 +34,12 @@
   <string name="no_update_available">Nema dostupnih ažuriranja.</string>
   <!-- Update interval -->
   <string name="interval_title">Interval automatskog ažuriranja</string>
-  <string name="interval_entry_disable">Disabled</string>
-  <string name="interval_entry_1h">Every hour</string>
-  <string name="interval_entry_12h">Every 12 hours</string>
-  <string name="interval_entry_24h">Every 24 hours</string>
-  <string name="autoupdate_enabled">Automatsko ažuriranje je omogućeno.</string>
-  <string name="autoupdate_disabled">Automatsko ažuriranje je onemogućeno.</string>
+  <string name="interval_entry_disable">Onemogućeno</string>
+  <string name="interval_entry_1h">Svaki sat</string>
+  <string name="interval_entry_12h">Svakih 12 sati</string>
+  <string name="interval_entry_24h">Svaka 24 sata</string>
+  <string name="autoupdate_enabled">Automatsko ažuriranje je omogućeno</string>
+  <string name="autoupdate_disabled">Automatsko ažuriranje je onemogućeno</string>
   <!-- Notification -->
   <string name="notification_title">Ažuriranje ROM-a</string>
   <string name="notification_message">Dostupno je novo ažuriranje!</string>

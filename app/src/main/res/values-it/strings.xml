@@ -34,7 +34,7 @@
   <string name="no_update_available">Nessun aggiornamento disponibile</string>
   <!-- Update interval -->
   <string name="interval_title">Intervallo di aggiornamento automatico</string>
-  <string name="interval_entry_disable">Disabilitato</string>
+  <string name="interval_entry_disable">Non attivo</string>
   <string name="interval_entry_1h">Ogni ora</string>
   <string name="interval_entry_12h">Ogni 12 ore</string>
   <string name="interval_entry_24h">Ogni 24 ore</string>

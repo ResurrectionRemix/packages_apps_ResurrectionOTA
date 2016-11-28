@@ -29,7 +29,7 @@
   <!-- Check update -->
   <string name="check_update_title">檢查更新</string>
   <string name="last_check_summary">最後檢查 ︰ %1$s</string>
-  <string name="last_check_never">從不</string>
+  <string name="last_check_never">永不</string>
   <string name="check_update_failed">無法檢查更新</string>
   <string name="no_update_available">沒有可用的更新</string>
   <!-- Update interval -->

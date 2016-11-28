@@ -21,23 +21,23 @@
   <string name="app_title">Güncellemeler</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Bağlantılar</string>
+  <string name="links_category">Linkler</string>
   <!-- ROM info -->
   <string name="latest_version">En son sürüm: %1$s</string>
   <string name="unknown">Bilinmeyen</string>
   <string name="system_uptodate">Sisteminiz güncel</string>
   <!-- Check update -->
-  <string name="check_update_title">Güncelleme kontrolü</string>
+  <string name="check_update_title">Güncellemeleri kontrol et</string>
   <string name="last_check_summary">Son kontrol: %1$s</string>
   <string name="last_check_never">Asla</string>
   <string name="check_update_failed">Güncelleştirme kontrol edilemiyor</string>
   <string name="no_update_available">Güncelleme mevcut değil</string>
   <!-- Update interval -->
   <string name="interval_title">Otomatik güncelleme aralığı</string>
-  <string name="interval_entry_disable">Devre dışı</string>
+  <string name="interval_entry_disable">Etkin Değil</string>
   <string name="interval_entry_1h">Her saat</string>
-  <string name="interval_entry_12h">12 Saat</string>
-  <string name="interval_entry_24h">Her 24 saat</string>
+  <string name="interval_entry_12h">Her 12 saatte</string>
+  <string name="interval_entry_24h">Her 24 saatte</string>
   <string name="autoupdate_enabled">Otomatik güncelleme etkin</string>
   <string name="autoupdate_disabled">Otomatik güncelleme devre dışı</string>
   <!-- Notification -->

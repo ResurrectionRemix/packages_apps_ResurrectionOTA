@@ -29,7 +29,7 @@
   <!-- Check update -->
   <string name="check_update_title">检查更新</string>
   <string name="last_check_summary">上次检查更新：%1$s</string>
-  <string name="last_check_never">从未</string>
+  <string name="last_check_never">从不</string>
   <string name="check_update_failed">无法检查更新</string>
   <string name="no_update_available">无可用更新</string>
   <!-- Update interval -->
@@ -44,5 +44,5 @@
   <string name="notification_title">系统更新</string>
   <string name="notification_message">有可用的更新！</string>
   <!-- Dialog -->
-  <string name="dialog_message">正在检查更新, 请稍候...</string>
+  <string name="dialog_message">正在检查系统更新，请稍候...</string>
 </resources>

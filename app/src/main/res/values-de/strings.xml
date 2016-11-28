@@ -28,12 +28,12 @@
   <string name="system_uptodate">Ihr System ist auf dem neuesten Stand</string>
   <!-- Check update -->
   <string name="check_update_title">Nach Update suchen</string>
-  <string name="last_check_summary">Zuletzt gesucht: %1$s</string>
-  <string name="last_check_never">Nie</string>
-  <string name="check_update_failed">Überprüfung nicht möglich</string>
+  <string name="last_check_summary">Letzte Prüfung: %1$s</string>
+  <string name="last_check_never">Niemals</string>
+  <string name="check_update_failed">Kann nicht auf Updates geprüft werden</string>
   <string name="no_update_available">Kein Update verfügbar</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatisch nach Updates suchen</string>
+  <string name="interval_title">Automatische Aktualisierung der Daten</string>
   <string name="interval_entry_disable">Deaktiviert</string>
   <string name="interval_entry_1h">Stündlich</string>
   <string name="interval_entry_12h">Alle 12 Stunden</string>

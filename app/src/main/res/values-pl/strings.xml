@@ -24,7 +24,7 @@
   <string name="links_category">Linki</string>
   <!-- ROM info -->
   <string name="latest_version">Najnowsza wersja: %1$s</string>
-  <string name="unknown">Brak informacji</string>
+  <string name="unknown">Nieznany</string>
   <string name="system_uptodate">Twój system jest aktualny</string>
   <!-- Check update -->
   <string name="check_update_title">Sprawdź aktualizację</string>
@@ -34,7 +34,7 @@
   <string name="no_update_available">Brak dostępnych aktualizacji</string>
   <!-- Update interval -->
   <string name="interval_title">Częstotliwość sprawdzania automatycznych aktualizacji</string>
-  <string name="interval_entry_disable">Wyłączone</string>
+  <string name="interval_entry_disable">Nieaktywny</string>
   <string name="interval_entry_1h">Co godzinę</string>
   <string name="interval_entry_12h">Co 12 godzin</string>
   <string name="interval_entry_24h">Co 24 godziny</string>

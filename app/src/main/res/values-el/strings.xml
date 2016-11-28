@@ -21,7 +21,7 @@
   <string name="app_title">Ενημερώσεις</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Σύνδεσμος σελίδας</string>
+  <string name="links_category">Συνδέσμοι</string>
   <!-- ROM info -->
   <string name="latest_version">Τελευταία έκδοση: %1$s</string>
   <string name="unknown">Άγνωστο</string>

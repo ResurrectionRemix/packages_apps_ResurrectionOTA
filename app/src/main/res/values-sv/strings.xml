@@ -17,32 +17,10 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Uppdateringar</string>
-  <string name="app_title">Uppdateringar</string>
   <!-- Categories -->
-  <string name="ota_category">OTA</string>
-  <string name="links_category">Länkar</string>
   <!-- ROM info -->
-  <string name="latest_version">Senaste version: %1$s</string>
-  <string name="unknown">Okänd</string>
-  <string name="system_uptodate">Ditt system är uppdaterat</string>
   <!-- Check update -->
-  <string name="check_update_title">Sök uppdatering</string>
-  <string name="last_check_summary">Senaste kontroll: %1$s</string>
-  <string name="last_check_never">Aldrig</string>
-  <string name="check_update_failed">Kan inte söka efter uppdatering</string>
-  <string name="no_update_available">Inga uppdateringar tillgängliga</string>
   <!-- Update interval -->
-  <string name="interval_title">Intervall för automatisk uppdatering</string>
-  <string name="interval_entry_disable">Inaktiverad</string>
-  <string name="interval_entry_1h">Varje timme</string>
-  <string name="interval_entry_12h">Var 12:e timme</string>
-  <string name="interval_entry_24h">Var 24:e timme</string>
-  <string name="autoupdate_enabled">Automatisk uppdatering är aktiverat</string>
-  <string name="autoupdate_disabled">Automatisk uppdatering är inaktiverat</string>
   <!-- Notification -->
-  <string name="notification_title">ROM uppdatering</string>
-  <string name="notification_message">Ny uppdatering tillgänglig!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Söker efter uppdateringar, var god vänta&#8230;</string>
 </resources>
