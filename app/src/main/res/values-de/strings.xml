@@ -33,7 +33,7 @@
   <string name="check_update_failed">Kann nicht auf Updates geprüft werden</string>
   <string name="no_update_available">Kein Update verfügbar</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatische Aktualisierung der Daten</string>
+  <string name="interval_title">Interval für automatische Aktualisierungen</string>
   <string name="interval_entry_disable">Deaktiviert</string>
   <string name="interval_entry_1h">Stündlich</string>
   <string name="interval_entry_12h">Alle 12 Stunden</string>

@@ -25,7 +25,13 @@
   <!-- ROM info -->
   <string name="latest_version">أحدث إصدار: %1$s</string>
   <string name="unknown">مجهول</string>
+  <string name="system_uptodate">النظام الخاص بك محدث</string>
   <!-- Check update -->
+  <string name="check_update_title">التحقق من التحديثات</string>
+  <string name="last_check_summary">آخر فحص: %1$s</string>
+  <string name="last_check_never">أبداً</string>
+  <string name="check_update_failed">لا يمكن التحقق من التحديث</string>
+  <string name="no_update_available">لا توجد تحديثات متوفرة</string>
   <!-- Update interval -->
   <string name="interval_title">التحديث التلقائي</string>
   <string name="interval_entry_disable">غير مُفعّل</string>
@@ -36,5 +42,7 @@
   <string name="autoupdate_disabled">ايقاف التحديث التلقائي</string>
   <!-- Notification -->
   <string name="notification_title">تحديث الروم</string>
+  <string name="notification_message">تحديث جديد متوفر!</string>
   <!-- Dialog -->
+  <string name="dialog_message">يتم البحث عن تحديثات للنظام, برجاء الانتظار&#8230;</string>
 </resources>

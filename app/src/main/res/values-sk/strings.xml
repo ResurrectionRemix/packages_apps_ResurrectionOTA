@@ -17,10 +17,32 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">Aktualizácie</string>
+  <string name="app_title">Aktualizácie</string>
   <!-- Categories -->
+  <string name="ota_category">OTA</string>
+  <string name="links_category">Odkazy</string>
   <!-- ROM info -->
+  <string name="latest_version">Posledná verzia: %1$s</string>
+  <string name="unknown">Neznáme</string>
+  <string name="system_uptodate">Váš systém je aktuálny</string>
   <!-- Check update -->
+  <string name="check_update_title">Skontrolovať aktualizáciu</string>
+  <string name="last_check_summary">Posledná kontrola: %1$s</string>
+  <string name="last_check_never">Nikdy</string>
+  <string name="check_update_failed">Nieje možné skontrolovať aktualizácie</string>
+  <string name="no_update_available">Neboli nájdené žiadne aktualizácie</string>
   <!-- Update interval -->
+  <string name="interval_title">Interval automatickej aktualizácie</string>
+  <string name="interval_entry_disable">Zakázané</string>
+  <string name="interval_entry_1h">Každú hodinu</string>
+  <string name="interval_entry_12h">Každých 12 hodín</string>
+  <string name="interval_entry_24h">Každých 24 hodín</string>
+  <string name="autoupdate_enabled">Automatická aktualizácia je povolená</string>
+  <string name="autoupdate_disabled">Automatická aktualizácia je zakázaná</string>
   <!-- Notification -->
+  <string name="notification_title">Aktualizácia ROM</string>
+  <string name="notification_message">Sú dostupné nové aktualizácie!</string>
   <!-- Dialog -->
+  <string name="dialog_message">Kontrola aktualizácie ROM, čakajte prosím&#8230;</string>
 </resources>
