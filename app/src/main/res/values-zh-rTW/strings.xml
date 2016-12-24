@@ -17,10 +17,32 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">更新</string>
+  <string name="app_title">更新</string>
   <!-- Categories -->
+  <string name="ota_category">OTA</string>
+  <string name="links_category">連結</string>
   <!-- ROM info -->
+  <string name="latest_version">最新版本：%1$s</string>
+  <string name="unknown">未知</string>
+  <string name="system_uptodate">您的系統是最新的</string>
   <!-- Check update -->
+  <string name="check_update_title">檢查更新</string>
+  <string name="last_check_summary">最後檢查 ︰ %1$s</string>
+  <string name="last_check_never">永不</string>
+  <string name="check_update_failed">無法檢查更新</string>
+  <string name="no_update_available">無可用更新</string>
   <!-- Update interval -->
+  <string name="interval_title">自動更新頻率</string>
+  <string name="interval_entry_disable">已停用</string>
+  <string name="interval_entry_1h">每小時</string>
+  <string name="interval_entry_12h">每 12 小時</string>
+  <string name="interval_entry_24h">每 24 小時</string>
+  <string name="autoupdate_enabled">自動更新已啟用</string>
+  <string name="autoupdate_disabled">自動更新已停用</string>
   <!-- Notification -->
+  <string name="notification_title">ROM 更新</string>
+  <string name="notification_message">有可用的更新！</string>
   <!-- Dialog -->
+  <string name="dialog_message">正在檢查 ROM 更新，請稍候...</string>
 </resources>

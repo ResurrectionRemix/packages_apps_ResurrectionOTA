@@ -17,6 +17,8 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">Oppdateringer</string>
+  <string name="app_title">Oppdateringer</string>
   <!-- Categories -->
   <!-- ROM info -->
   <!-- Check update -->

@@ -17,9 +17,17 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">Updates</string>
+  <string name="app_title">Updates</string>
   <!-- Categories -->
+  <string name="ota_category">OTA</string>
+  <string name="links_category">Links</string>
   <!-- ROM info -->
+  <string name="latest_version">Latest Version: %1$s</string>
+  <string name="unknown">Unknown</string>
+  <string name="system_uptodate">Your System is Up to Date</string>
   <!-- Check update -->
+  <string name="check_update_title">Check Update</string>
   <!-- Update interval -->
   <!-- Notification -->
   <!-- Dialog -->

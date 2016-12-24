@@ -34,12 +34,12 @@
   <string name="no_update_available">Нет доступных обновлений</string>
   <!-- Update interval -->
   <string name="interval_title">Интервал автоматического обновления</string>
-  <string name="interval_entry_disable">Отключен</string>
+  <string name="interval_entry_disable">Отключено</string>
   <string name="interval_entry_1h">Каждый час</string>
   <string name="interval_entry_12h">Каждые 12 часов</string>
   <string name="interval_entry_24h">Каждые 24 часа</string>
   <string name="autoupdate_enabled">Автоматическое обновление включено</string>
-  <string name="autoupdate_disabled">Автоматическое обновление отключено</string>
+  <string name="autoupdate_disabled">Автоматическое обновление выключено</string>
   <!-- Notification -->
   <string name="notification_title">Обновление прошивки</string>
   <string name="notification_message">Доступны новые обновления!</string>

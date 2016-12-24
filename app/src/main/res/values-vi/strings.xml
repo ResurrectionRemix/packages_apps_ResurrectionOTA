@@ -17,7 +17,7 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Cập nhật</string>
+  <string name="app_name">Updates</string>
   <string name="app_title">Cập nhật</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
@@ -29,7 +29,7 @@
   <!-- Check update -->
   <string name="check_update_title">Kiểm tra cập nhật</string>
   <string name="last_check_summary">Lần cuối kiểm tra: %1$s</string>
-  <string name="last_check_never">Không bao giờ</string>
+  <string name="last_check_never">Never</string>
   <string name="check_update_failed">Không thể kiểm tra cập nhật</string>
   <string name="no_update_available">Không có cập nhật</string>
   <!-- Update interval -->

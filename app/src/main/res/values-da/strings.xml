@@ -17,8 +17,10 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">Opdateringer</string>
   <!-- Categories -->
   <!-- ROM info -->
+  <string name="system_uptodate">Dit system er det nyeste</string>
   <!-- Check update -->
   <!-- Update interval -->
   <!-- Notification -->

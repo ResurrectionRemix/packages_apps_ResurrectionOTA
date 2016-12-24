@@ -25,7 +25,7 @@
   <!-- ROM info -->
   <string name="latest_version">Остання версія: %1$s</string>
   <string name="unknown">Невідомо</string>
-  <string name="system_uptodate">Ваша система знаходиться в актуальному стані</string>
+  <string name="system_uptodate">У вас найновіша версія</string>
   <!-- Check update -->
   <string name="check_update_title">Перевірити оновлення</string>
   <string name="last_check_summary">Остання перевірка: %1$s</string>

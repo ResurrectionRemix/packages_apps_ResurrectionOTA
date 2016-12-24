@@ -17,10 +17,32 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">Yeniləmələr</string>
+  <string name="app_title">Yeniləmələr</string>
   <!-- Categories -->
+  <string name="ota_category">OTA</string>
+  <string name="links_category">Linklər</string>
   <!-- ROM info -->
+  <string name="latest_version">Ən son versiya: %1$s</string>
+  <string name="unknown">Bilinməyən</string>
+  <string name="system_uptodate">Sisteminiz güncəl</string>
   <!-- Check update -->
+  <string name="check_update_title">Yeniləmələri yoxla</string>
+  <string name="last_check_summary">Son yoxlama: %1$s</string>
+  <string name="last_check_never">Heç vaxt</string>
+  <string name="check_update_failed">Yeniləmələr yoxlanıla bilmir</string>
+  <string name="no_update_available">Yeniləmə mövcud deyil</string>
   <!-- Update interval -->
+  <string name="interval_title">Avtomatik yeniləmə aralığı</string>
+  <string name="interval_entry_disable">Aktiv deyil</string>
+  <string name="interval_entry_1h">Hər saat</string>
+  <string name="interval_entry_12h">Hər 12 saatda</string>
+  <string name="interval_entry_24h">Hər 24 saatda</string>
+  <string name="autoupdate_enabled">Avtomatik yeniləmə aktiv</string>
+  <string name="autoupdate_disabled">Avtomatik yeniləmə aktiv deyil</string>
   <!-- Notification -->
+  <string name="notification_title">ROM Yeniləmə</string>
+  <string name="notification_message">Yeni yeniləmələr mövcut!</string>
   <!-- Dialog -->
+  <string name="dialog_message">ROM yeniləmələri yoxlanılır, xahiş edirik gözləyin&#8230;</string>
 </resources>
