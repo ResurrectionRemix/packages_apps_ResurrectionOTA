@@ -44,5 +44,5 @@
   <string name="notification_title">ROM-Update</string>
   <string name="notification_message">Ein neues Update ist verfügbar!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Nach Aktualisierungen wird gesucht, bitte warten&#8230;</string>
+  <string name="dialog_message">Suche nach Aktualisierungen, bitte warten&#8230;</string>
 </resources>
