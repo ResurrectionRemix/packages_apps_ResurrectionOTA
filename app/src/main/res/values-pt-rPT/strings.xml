@@ -25,23 +25,23 @@
   <!-- ROM info -->
   <string name="latest_version">Última versão: %1$s</string>
   <string name="unknown">Desconhecida</string>
-  <string name="system_uptodate">O teu sistema está atualizado</string>
+  <string name="system_uptodate">O sistema está atualizado</string>
   <!-- Check update -->
-  <string name="check_update_title">Procurar atualização</string>
+  <string name="check_update_title">Procurar atualizações</string>
   <string name="last_check_summary">Última verificação: %1$s</string>
   <string name="last_check_never">Nunca</string>
-  <string name="check_update_failed">Não foi possível procurar atualização</string>
-  <string name="no_update_available">Não há actualizações disponíveis</string>
+  <string name="check_update_failed">Não foi possível procurar atualizações</string>
+  <string name="no_update_available">Não há atualizações disponíveis</string>
   <!-- Update interval -->
   <string name="interval_title">Intervalo de procura automática de atualizações</string>
-  <string name="interval_entry_disable">Desativado</string>
+  <string name="interval_entry_disable">Desativada</string>
   <string name="interval_entry_1h">A cada hora</string>
   <string name="interval_entry_12h">A cada 12 horas</string>
   <string name="interval_entry_24h">A cada 24 horas</string>
   <string name="autoupdate_enabled">A atualização automática está ativada</string>
   <string name="autoupdate_disabled">A atualização automática está desativada</string>
   <!-- Notification -->
-  <string name="notification_title">Atualização de ROM</string>
+  <string name="notification_title">Atualização da ROM</string>
   <string name="notification_message">Nova atualização disponível!</string>
   <!-- Dialog -->
   <string name="dialog_message">A procurar atualizações da ROM, aguarde&#8230;</string>
