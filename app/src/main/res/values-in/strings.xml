@@ -31,7 +31,7 @@
   <string name="last_check_summary">Terakhir diperiksa: %1$s</string>
   <string name="last_check_never">Tidak pernah</string>
   <string name="check_update_failed">Tidak dapat memeriksa pembaruan</string>
-  <string name="no_update_available">Tidak Ada Pembaruan yang Tersedia</string>
+  <string name="no_update_available">Tidak ada Pembaruan yang tersedia</string>
   <!-- Update interval -->
   <string name="interval_title">Selang waktu pembaruan otomatis</string>
   <string name="interval_entry_disable">Dinonaktifkan</string>
