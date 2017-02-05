@@ -31,7 +31,7 @@
   <string name="last_check_summary">Terakhir diperiksa: %1$s</string>
   <string name="last_check_never">Tidak pernah</string>
   <string name="check_update_failed">Tidak dapat memeriksa pembaruan</string>
-  <string name="no_update_available">Tidak ada Pembaruan yang tersedia</string>
+  <string name="no_update_available">Tidak ada pembaruan yang tersedia</string>
   <!-- Update interval -->
   <string name="interval_title">Selang waktu pembaruan otomatis</string>
   <string name="interval_entry_disable">Dinonaktifkan</string>
@@ -42,7 +42,7 @@
   <string name="autoupdate_disabled">Pembaruan otomatis dinonaktifkan</string>
   <!-- Notification -->
   <string name="notification_title">Pembaruan ROM</string>
-  <string name="notification_message">Update baru tersedia!</string>
+  <string name="notification_message">Pembaruan tersedia!</string>
   <!-- Dialog -->
   <string name="dialog_message">Memeriksa pembaruan ROM, harap tunggu&#8230;</string>
 </resources>
