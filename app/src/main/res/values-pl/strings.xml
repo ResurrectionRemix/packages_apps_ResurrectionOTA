@@ -27,7 +27,7 @@
   <string name="unknown">Nieznany</string>
   <string name="system_uptodate">Twój system jest aktualny</string>
   <!-- Check update -->
-  <string name="check_update_title">Sprawdź aktualizację</string>
+  <string name="check_update_title">Sprawdź dostępność aktualizacji</string>
   <string name="last_check_summary">Ostatnio sprawdzone: %1$s</string>
   <string name="last_check_never">Nigdy</string>
   <string name="check_update_failed">Nie można sprawdzić aktualizacji</string>
@@ -38,11 +38,11 @@
   <string name="interval_entry_1h">Co godzinę</string>
   <string name="interval_entry_12h">Co 12 godzin</string>
   <string name="interval_entry_24h">Co 24 godziny</string>
-  <string name="autoupdate_enabled">Aktualizacje automatyczne są włączone</string>
-  <string name="autoupdate_disabled">Aktualizacje automatyczne są wyłączone</string>
+  <string name="autoupdate_enabled">Automatyczne aktualizacje są włączone</string>
+  <string name="autoupdate_disabled">Automatyczne aktualizacje są wyłączone</string>
   <!-- Notification -->
   <string name="notification_title">Aktualizacja ROM\'u</string>
   <string name="notification_message">Dostępna jest nowa aktualizacja!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Sprawdzam aktualizacje ROM\'u, proszę czekać&#8230;</string>
+  <string name="dialog_message">Sprawdzanie dostępności aktualizacji, proszę czekać&#8230;</string>
 </resources>
