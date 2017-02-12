@@ -33,7 +33,7 @@
   <string name="check_update_failed">Nie można sprawdzić aktualizacji</string>
   <string name="no_update_available">Brak dostępnych aktualizacji</string>
   <!-- Update interval -->
-  <string name="interval_title">Częstotliwość sprawdzania automatycznych aktualizacji</string>
+  <string name="interval_title">Częstotliwość sprawdzania aktualizacji</string>
   <string name="interval_entry_disable">Nigdy</string>
   <string name="interval_entry_1h">Co godzinę</string>
   <string name="interval_entry_12h">Co 12 godzin</string>
