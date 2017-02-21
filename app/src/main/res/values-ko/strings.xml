@@ -28,18 +28,18 @@
   <string name="system_uptodate">시스템이 최신 상태입니다.</string>
   <!-- Check update -->
   <string name="check_update_title">업데이트 확인</string>
-  <string name="last_check_summary">마지막 확인: %1$s</string>
+  <string name="last_check_summary">마지막 확인 시각: %1$s</string>
   <string name="last_check_never">확인 안 함</string>
-  <string name="check_update_failed">업데이트를 확인할 수 없습니다.</string>
-  <string name="no_update_available">가능한 업데이트가 없습니다.</string>
+  <string name="check_update_failed">업데이트를 확인할 수 없음</string>
+  <string name="no_update_available">사용 가능한 업데이트 없음</string>
   <!-- Update interval -->
-  <string name="interval_title">자동 업데이트 간격</string>
+  <string name="interval_title">자동 업데이트 확인 간격</string>
   <string name="interval_entry_disable">비활성화됨</string>
-  <string name="interval_entry_1h">1시간</string>
-  <string name="interval_entry_12h">12시간</string>
-  <string name="interval_entry_24h">24시간</string>
-  <string name="autoupdate_enabled">자동 업데이트가 활성화됨</string>
-  <string name="autoupdate_disabled">자동 업데이트가 비활성화됨</string>
+  <string name="interval_entry_1h">1시간마다</string>
+  <string name="interval_entry_12h">12시간마다</string>
+  <string name="interval_entry_24h">24시간마다</string>
+  <string name="autoupdate_enabled">자동 업데이트 확인이 활성화됨</string>
+  <string name="autoupdate_disabled">자동 업데이트 확인이 비활성화됨</string>
   <!-- Notification -->
   <string name="notification_title">ROM 업데이트</string>
   <string name="notification_message">새 업데이트가 있습니다!</string>
