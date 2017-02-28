@@ -33,7 +33,7 @@
   <string name="check_update_failed">Não foi possível procurar atualizações</string>
   <string name="no_update_available">Não há atualizações disponíveis</string>
   <!-- Update interval -->
-  <string name="interval_title">Intervalo de procura automática de atualizações</string>
+  <string name="interval_title">Intervalo de procura automática</string>
   <string name="interval_entry_disable">Desativada</string>
   <string name="interval_entry_1h">A cada hora</string>
   <string name="interval_entry_12h">A cada 12 horas</string>
