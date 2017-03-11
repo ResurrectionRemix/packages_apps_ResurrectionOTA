@@ -25,9 +25,9 @@
   <!-- ROM info -->
   <string name="latest_version">Nieuwste versie: %1$s</string>
   <string name="unknown">Onbekend</string>
-  <string name="system_uptodate">Uw systeem is up to date</string>
+  <string name="system_uptodate">Uw systeem is up-to-date</string>
   <!-- Check update -->
-  <string name="check_update_title">Controleren op Updates</string>
+  <string name="check_update_title">Controleren op updates</string>
   <string name="last_check_summary">Laatste controle: %1$s</string>
   <string name="last_check_never">Nooit</string>
   <string name="check_update_failed">Kan niet controleren op updates</string>
@@ -44,5 +44,5 @@
   <string name="notification_title">ROM Update</string>
   <string name="notification_message">Nieuwe update beschikbaar!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Zoeken naar ROM updates, een moment geduld a. u. b&#8230;</string>
+  <string name="dialog_message">Zoeken naar ROM updates, een moment geduld&#8230;</string>
 </resources>
