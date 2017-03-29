@@ -31,7 +31,7 @@
   <string name="last_check_summary">Dernière vérification : %1$s</string>
   <string name="last_check_never">Jamais</string>
   <string name="check_update_failed">Impossible de vérifier la mise à jour</string>
-  <string name="no_update_available">Aucune mise à jour disponible</string>
+  <string name="no_update_available">Aucune mise à jour n\'est disponible</string>
   <!-- Update interval -->
   <string name="interval_title">Intervalle de mise à jour automatique</string>
   <string name="interval_entry_disable">Désactivée</string>
