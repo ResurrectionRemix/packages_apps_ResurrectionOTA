@@ -21,7 +21,7 @@
   <string name="app_title">Aggiornamenti</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Link</string>
+  <string name="links_category">Collegamenti</string>
   <!-- ROM info -->
   <string name="latest_version">Ultima versione: %1$s</string>
   <string name="unknown">Sconosciuto</string>
