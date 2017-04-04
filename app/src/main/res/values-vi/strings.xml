@@ -17,7 +17,7 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">Updates</string>
+  <string name="app_name">Các cập nhật</string>
   <string name="app_title">Cập nhật</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
