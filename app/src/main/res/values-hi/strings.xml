@@ -23,25 +23,25 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">लिंक</string>
   <!-- ROM info -->
-  <string name="latest_version">Latest version: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="latest_version">नवीनतम संस्करण:%1$s</string>
+  <string name="unknown">अज्ञात</string>
+  <string name="system_uptodate">आपका सिस्टम अपडेट नवीनतम है।</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
+  <string name="check_update_title">अपडेट के लिए जाँच करें</string>
   <string name="last_check_summary">अंतिम जांच: %1$s</string>
   <string name="last_check_never">कभी नहीं</string>
   <string name="check_update_failed">अपडेट की जाँच नहीं कर सकते</string>
   <string name="no_update_available">कोई अपडेट उपलब्ध नहीं</string>
   <!-- Update interval -->
   <string name="interval_title">स्वत: अद्यतन अंतराल</string>
-  <string name="interval_entry_disable">अक्षम किया गया</string>
+  <string name="interval_entry_disable">अक्षम</string>
   <string name="interval_entry_1h">हर घंटे</string>
   <string name="interval_entry_12h">हर 12 घंटे</string>
   <string name="interval_entry_24h">हर 24 घंटे</string>
   <string name="autoupdate_enabled">स्वत: अद्यतन सक्षम किया गया है</string>
   <string name="autoupdate_disabled">स्वत: अद्यतन अक्षम किया गया है</string>
   <!-- Notification -->
-  <string name="notification_title">ROM अपडेट</string>
+  <string name="notification_title">रोम अपडेट</string>
   <string name="notification_message">नए अपडेट उपलब्ध!</string>
   <!-- Dialog -->
   <string name="dialog_message">ROM अपडेट की जाँच हो रही है, कृपया प्रतीक्षा करें...</string>
