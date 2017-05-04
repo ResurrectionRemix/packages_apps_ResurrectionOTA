@@ -18,8 +18,13 @@
 <resources>
   <!-- App -->
   <string name="app_name">Opdateringer</string>
+  <string name="app_title">Opdateringer</string>
   <!-- Categories -->
+  <string name="ota_category">OTA</string>
+  <string name="links_category">Links</string>
   <!-- ROM info -->
+  <string name="latest_version">Seneste udgave: %1$s</string>
+  <string name="unknown">Ukendt</string>
   <string name="system_uptodate">Dit system er det nyeste</string>
   <!-- Check update -->
   <!-- Update interval -->
