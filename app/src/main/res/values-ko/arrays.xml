@@ -16,8 +16,10 @@
   -->
 
 <resources>
-    <!-- Palette colors referenced by top-level themes. -->
-    <color name="theme_primary">@*android:color/primary_material_settings</color>
-    <color name="theme_primary_dark">@*android:color/primary_dark_material_dark</color>
-    <color name="theme_accent">@*android:color/accent_material_dark</color>
+    <string-array name="interval_entries">
+        <item>비활성화됨</item>
+        <item>매시간마다</item>
+        <item>12시간마다</item>
+        <item>24시간마다</item>
+    </string-array>
 </resources>
