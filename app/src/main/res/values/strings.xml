@@ -18,7 +18,7 @@
 <resources>
 
     <!-- App -->
-    <string name="app_name">ResurrectionOTA</string>
+    <string name="app_name">Updates</string>
     <string name="app_title">Updates</string>
 
     <!-- Categories -->
@@ -39,6 +39,10 @@
 
     <!-- Update interval -->
     <string name="interval_title">Automatic update interval</string>
+    <string name="interval_entry_disable">Disabled</string>
+    <string name="interval_entry_1h">Every hour</string>
+    <string name="interval_entry_12h">Every 12 hours</string>
+    <string name="interval_entry_24h">Every 24 hours</string>
     <string name="autoupdate_enabled">Automatic update is enabled</string>
     <string name="autoupdate_disabled">Automatic update is disabled</string>
 

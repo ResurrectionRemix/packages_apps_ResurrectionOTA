@@ -17,10 +17,10 @@
 
 <resources>
     <string-array name="interval_entries">
-        <item>@string/interval_entry_disable</item>
-        <item>@string/interval_entry_1h</item>
-        <item>@string/interval_entry_12h</item>
-        <item>@string/interval_entry_24h</item>
+        <item>Deaktiviert</item>
+        <item>Stündlich</item>
+        <item>Alle 12 Stunden</item>
+        <item>Alle 24 Stunden</item>
     </string-array>
 
     <string-array name="interval_values">
