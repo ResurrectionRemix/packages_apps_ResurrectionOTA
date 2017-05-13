@@ -41,7 +41,7 @@
   <string name="autoupdate_enabled">Otomatik güncelleme etkin</string>
   <string name="autoupdate_disabled">Otomatik güncelleme devre dışı</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Güncelleme</string>
+  <string name="notification_title">ROM Güncellemesi</string>
   <string name="notification_message">Yeni güncelleme mevcut!</string>
   <!-- Dialog -->
   <string name="dialog_message">ROM güncellemeleri kontrol ediliyor, lütfen bekleyin&#8230;</string>

@@ -18,7 +18,7 @@
 <resources>
   <!-- App -->
   <string name="app_name">Các cập nhật</string>
-  <string name="app_title">Cập nhật</string>
+  <string name="app_title">Các cập nhật</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
   <string name="links_category">Liên kết</string>
@@ -29,20 +29,20 @@
   <!-- Check update -->
   <string name="check_update_title">Kiểm tra cập nhật</string>
   <string name="last_check_summary">Lần cuối kiểm tra: %1$s</string>
-  <string name="last_check_never">Never</string>
+  <string name="last_check_never">Không bao giờ</string>
   <string name="check_update_failed">Không thể kiểm tra cập nhật</string>
-  <string name="no_update_available">Không có cập nhật</string>
+  <string name="no_update_available">Không có cập nhật có sẵn</string>
   <!-- Update interval -->
   <string name="interval_title">Khoảng thời gian tự động kiểm tra cập nhật</string>
-  <string name="interval_entry_disable">Đã tắt</string>
-  <string name="interval_entry_1h">Hàng giờ</string>
+  <string name="interval_entry_disable">Đã vô hiệu hóa</string>
+  <string name="interval_entry_1h">Mỗi giờ</string>
   <string name="interval_entry_12h">Mỗi 12 giờ</string>
   <string name="interval_entry_24h">Mỗi 24 giờ</string>
   <string name="autoupdate_enabled">Cập nhật tự động được kích hoạt</string>
   <string name="autoupdate_disabled">Cập nhật tự động bị vô hiệu hóa</string>
   <!-- Notification -->
   <string name="notification_title">Cập nhật ROM</string>
-  <string name="notification_message">Bản cập nhật mới sẵn sàng!</string>
+  <string name="notification_message">Bản cập nhật mới có sẵn!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Đang kiểm tra cập nhật ROM, vui lòng chờ&#8230;</string>
+  <string name="dialog_message">Đang kiểm tra các cập nhật ROM, vui lòng chờ&#8230;</string>
 </resources>
