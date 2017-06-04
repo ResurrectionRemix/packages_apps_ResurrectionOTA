@@ -17,6 +17,7 @@
   -->
 <resources>
   <!-- App -->
+  <string name="app_name">Päivitykset</string>
   <!-- Categories -->
   <!-- ROM info -->
   <!-- Check update -->
