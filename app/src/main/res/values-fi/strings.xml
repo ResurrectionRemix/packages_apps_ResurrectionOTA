@@ -18,9 +18,16 @@
 <resources>
   <!-- App -->
   <string name="app_name">Päivitykset</string>
+  <string name="app_title">Päivitykset</string>
   <!-- Categories -->
+  <string name="ota_category">Päivitys verkon yli</string>
+  <string name="links_category">Linkit</string>
   <!-- ROM info -->
+  <string name="latest_version">Viimeisin versio: %1$s</string>
+  <string name="unknown">Tuntematon</string>
+  <string name="system_uptodate">Järjestelmäsi on ajan tasalla</string>
   <!-- Check update -->
+  <string name="check_update_title">Tarkista päivitykset</string>
   <!-- Update interval -->
   <!-- Notification -->
   <!-- Dialog -->
