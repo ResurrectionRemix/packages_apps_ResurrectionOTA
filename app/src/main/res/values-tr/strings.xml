@@ -33,11 +33,11 @@
   <string name="check_update_failed">Güncelleştirme kontrol edilemiyor</string>
   <string name="no_update_available">Güncelleme mevcut değil</string>
   <!-- Update interval -->
-  <string name="interval_title">Otomatik güncelleme aralığı</string>
-  <string name="interval_entry_disable">Etkin Değil</string>
+  <string name="interval_title">Otomatik güncelleme kontrolü</string>
+  <string name="interval_entry_disable">Etkin değil</string>
   <string name="interval_entry_1h">Her saat</string>
-  <string name="interval_entry_12h">Her 12 saatte</string>
-  <string name="interval_entry_24h">Her 24 saatte</string>
+  <string name="interval_entry_12h">12 saatte bir</string>
+  <string name="interval_entry_24h">24 saatte bir</string>
   <string name="autoupdate_enabled">Otomatik güncelleme etkin</string>
   <string name="autoupdate_disabled">Otomatik güncelleme devre dışı</string>
   <!-- Notification -->
