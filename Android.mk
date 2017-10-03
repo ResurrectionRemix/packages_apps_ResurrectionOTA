@@ -18,7 +18,9 @@ LOCAL_ASSET_DIR := $(LOCAL_PATH)/app/src/main/assets
 LOCAL_AAPT_INCLUDE_ALL_RESOURCES := true
 LOCAL_AAPT_FLAGS := --auto-add-overlay
 
-LOCAL_STATIC_JAVA_LIBRARIES += libcwac
+LOCAL_STATIC_JAVA_LIBRARIES +=\
+    android-support-v4 \
+    libcwac
 
 include $(BUILD_PACKAGE)
 

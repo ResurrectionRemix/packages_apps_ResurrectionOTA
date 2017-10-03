@@ -26,7 +26,7 @@
     <string name="links_category">Links</string>
 
     <!-- ROM info -->
-    <string name="latest_version">Latest version: %1$s</string>
+    <string name="latest_version">Update available!\nLatest version: %1$s</string>
     <string name="unknown">Unknown</string>
     <string name="system_uptodate">Your system is up to date</string>
 
@@ -35,6 +35,7 @@
     <string name="last_check_summary">Last check: %1$s</string>
     <string name="last_check_never">Never</string>
     <string name="check_update_failed">Can\'t check update</string>
+    <string name="update_available">Update available!</string>
     <string name="no_update_available">No update available</string>
 
     <!-- Update interval -->
@@ -47,8 +48,10 @@
     <string name="autoupdate_disabled">Automatic update is disabled</string>
 
     <!-- Notification -->
-    <string name="notification_title">ROM Update</string>
-    <string name="notification_message">New update available!</string>
+    <string name="notification_title">ResurrectionRemix OS update</string>
+    <string name="notification_message">A new version is available!</string>
+    <string name="resurrection_channel">ResurrectionOTA notifications</string>
+    <string name="resurrection_channel_description">Notifications about new ResurrectionRemix OS updates</string>
 
     <!-- Dialog -->
     <string name="dialog_message">Checking for ROM updates, please wait…</string>

@@ -17,6 +17,7 @@
 package com.resurrection.ota.tasks;
 
 import android.app.Notification;
+import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.content.Context;
@@ -27,6 +28,7 @@ import android.net.NetworkInfo;
 import android.os.AsyncTask;
 import android.os.Handler;
 import android.os.Message;
+import android.support.v4.app.NotificationCompat;
 
 import com.resurrection.ota.MainActivity;
 import com.resurrection.ota.R;
@@ -103,6 +105,7 @@ public class CheckUpdateTask extends AsyncTask<Context, Void, OTADevice> {
             boolean updateAvailable = OTAVersion.checkServerVersion(latestVersion, mContext);
             if (updateAvailable) {
                 showNotification(mContext);
+                showToast(R.string.update_available);
             } else {
                 showToast(R.string.no_update_available);
             }
@@ -151,22 +154,30 @@ public class CheckUpdateTask extends AsyncTask<Context, Void, OTADevice> {
     }
 
     private void showNotification(Context context) {
-        Notification.Builder builder = new Notification.Builder(context);
-        builder.setContentTitle(context.getString(R.string.notification_title));
-        builder.setContentText(context.getString(R.string.notification_message));
-        builder.setSmallIcon(R.drawable.ic_notification_slimota);
-        builder.setLargeIcon(BitmapFactory.decodeResource(context.getResources(), R.drawable.ic_slimota));
+        NotificationManager notificationManager =
+                (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
+        int notifyID = 1;
+        String id = "resurrectionota_channel";
+        CharSequence name = context.getString(R.string.resurrection_channel);
+        String description = context.getString(R.string.resurrection_channel_description);
+        int importance = NotificationManager.IMPORTANCE_LOW;
+        NotificationChannel mChannel = new NotificationChannel(id, name, importance);
+        mChannel.setDescription(description);
+        notificationManager.createNotificationChannel(mChannel);
+
+        NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context.getApplicationContext())
+                .setSmallIcon(R.drawable.ic_notification_resurrection)
+                .setContentTitle(context.getString(R.string.notification_title))
+                .setContentText(context.getString(R.string.notification_message))
+                .setOnlyAlertOnce(true)
+                .setAutoCancel(true)
+                .setChannelId(id);
 
         Intent intent = new Intent(context, MainActivity.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         final PendingIntent pendingIntent = PendingIntent.getActivity(context, 0, intent,
                 PendingIntent.FLAG_ONE_SHOT);
-        builder.setContentIntent(pendingIntent);
-
-        NotificationManager notificationManager =
-                (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
-        Notification notification = builder.build();
-        notification.flags |= Notification.FLAG_AUTO_CANCEL;
-        notificationManager.notify(1000001, notification);
+        mBuilder.setContentIntent(pendingIntent);
+        notificationManager.notify(notifyID, mBuilder.build());
     }
 }
