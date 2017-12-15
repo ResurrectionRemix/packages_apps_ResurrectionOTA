@@ -17,19 +17,32 @@
   -->
 <resources>
   <!-- App -->
-  <string name="app_name">การปรับปรุง</string>
-  <string name="app_title">การปรับปรุง</string>
+  <string name="app_name">อัปเดต</string>
+  <string name="app_title">อัปเดต</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">การเชื่อมโยง</string>
+  <string name="links_category">ลิงก์</string>
   <!-- ROM info -->
-  <string name="latest_version">รุ่นล่าสุด: %1$s</string>
+  <string name="latest_version">เวอร์ชั่นล่าสุด: %1$s</string>
   <string name="unknown">ไม่รู้จัก</string>
-  <string name="system_uptodate">ระบบของคุณอยู่เสมอ</string>
+  <string name="system_uptodate">ระบบของคุณเป็นเวอร์ชั่นล่าสุดแล้ว</string>
   <!-- Check update -->
-  <string name="check_update_title">ตรวจสอบปรับปรุง</string>
+  <string name="check_update_title">ตรวจสอบการอัปเดท</string>
   <string name="last_check_summary">ตรวจสอบล่าสุด: %1$s</string>
+  <string name="last_check_never">ไม่อีกเลย</string>
+  <string name="check_update_failed">ไม่สามารถตรวจสอบการอัปเดต</string>
+  <string name="no_update_available">ไม่มีการอัพเดปเพิ่มเติม</string>
   <!-- Update interval -->
+  <string name="interval_title">ช่วงเวลาการอัปเดต</string>
+  <string name="interval_entry_disable">ปิดการใช้งาน</string>
+  <string name="interval_entry_1h">ทุกชั่วโมง</string>
+  <string name="interval_entry_12h">ทุก 12 ชั่วโมง</string>
+  <string name="interval_entry_24h">ทุก 24 ชั่วโมง</string>
+  <string name="autoupdate_enabled">การอัปเดตอัตโนมัติเปิดใช้งาน</string>
+  <string name="autoupdate_disabled">การอัปเดตอัตโนมัติปิดใช้งาน</string>
   <!-- Notification -->
+  <string name="notification_title">อัปเดต ROM</string>
+  <string name="notification_message">การอัปเดตใหม่พร้อมใช้งาน</string>
   <!-- Dialog -->
+  <string name="dialog_message">กำลังตรวจสอบการอัพเดต, กรุณารอสักครู่ ...</string>
 </resources>
