@@ -18,11 +18,13 @@ package com.resurrection.ota.utils;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.util.Log;
 import android.widget.Toast;
 
 import com.resurrection.ota.configs.OTAConfig;
+import com.resurrection.ota.R;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -115,7 +117,14 @@ public final class OTAUtils {
 
     public static void launchUrl(String url, Context context) {
         if (!url.isEmpty() && context != null) {
-            context.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
+            PackageManager pm = context.getPackageManager();
+            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
+            if (intent.resolveActivity(pm) != null) {
+                context.startActivity(intent);
+            } else {
+                Toast toast = Toast.makeText(context, R.string.toast_message, Toast.LENGTH_LONG);
+                toast.show();
+            }
         }
     }
 }

@@ -56,4 +56,6 @@
     <!-- Dialog -->
     <string name="dialog_message">Checking for ROM updates, please wait…</string>
 
+    <!-- Toast -->
+    <string name="toast_message">There\'s no browser installed</string>
 </resources>
