@@ -39,8 +39,6 @@ public final class OTAUtils {
     private static final String TAG = "SlimOTA";
     private static final boolean DEBUG = true;
 
-    private static final String BUILD_PROP = "/system/build.prop";
-
     private OTAUtils() {
     }
 
@@ -65,20 +63,24 @@ public final class OTAUtils {
 
     public static String getDeviceName(Context context) {
         String propName = OTAConfig.getInstance(context).getDeviceSource();
-        return OTAUtils.getBuildProp(propName);
+        return OTAUtils.getProp(propName);
     }
 
-    public static String getBuildProp(String propertyName) {
-        Properties buildProps = new Properties();
+    public static String getProp(String propName) {
+        Process p = null;
+        String result = "";
         try {
-            FileInputStream is = new FileInputStream(new File(BUILD_PROP));
-            buildProps.load(is);
-            is.close();
-            return buildProps.getProperty(propertyName, "");
+            p = new ProcessBuilder("/system/bin/getprop", propName).redirectErrorStream(true).start();
+            BufferedReader br = new BufferedReader(new InputStreamReader(p.getInputStream()));
+            String line = "";
+            while ((line=br.readLine()) != null) {
+                result = line;
+            }
+            br.close();
         } catch (IOException e) {
-            logError(e);
+            e.printStackTrace();
         }
-        return "";
+            return result;
     }
 
     public static String runCommand(String command) {

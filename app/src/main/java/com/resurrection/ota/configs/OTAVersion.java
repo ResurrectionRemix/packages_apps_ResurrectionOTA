@@ -35,7 +35,7 @@ public class OTAVersion {
         if (source.equalsIgnoreCase(UNAME_R)) {
             sourceString = OTAUtils.runCommand(UNAME_R);
         } else {
-            sourceString = OTAUtils.getBuildProp(source);
+            sourceString = OTAUtils.getProp(source);
         }
         return sourceString;
     }
