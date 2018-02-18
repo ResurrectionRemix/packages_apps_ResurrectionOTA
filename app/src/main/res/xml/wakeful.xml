@@ -1,3 +1,0 @@
-<WakefulIntentService
-    listener="com.resurrection.ota.scheduler.OTAListener"
-    />

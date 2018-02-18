@@ -17,13 +17,15 @@
 package com.resurrection.ota.configs;
 
 import android.app.AlarmManager;
+import android.app.job.JobInfo;
+import android.app.job.JobScheduler;
+import android.content.ComponentName;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-import com.commonsware.cwac.wakeful.WakefulIntentService;
 import com.resurrection.ota.R;
-import com.resurrection.ota.scheduler.OTAListener;
+import com.resurrection.ota.tasks.OTAService;
 import com.resurrection.ota.utils.OTAUtils;
 
 import java.text.DateFormat;
@@ -96,18 +98,25 @@ public final class AppConfig {
                 intervalValue = AlarmManager.INTERVAL_DAY;
                 break;
             default:
-                intervalValue = OTAListener.DEFAULT_INTERVAL_VALUE;
+                intervalValue = AlarmManager.INTERVAL_HALF_DAY;
                 break;
         }
 
         SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(context);
         sharedPreferences.edit().putLong(UPDATE_INTERVAL, intervalValue).apply();
+
+        JobScheduler jobScheduler = (JobScheduler) context.getSystemService(Context.JOB_SCHEDULER_SERVICE);
+
         if (intervalValue > 0) {
-            WakefulIntentService.cancelAlarms(context);
-            WakefulIntentService.scheduleAlarms(new OTAListener(), context, true);
+            jobScheduler.cancel(0);
+            jobScheduler.schedule(new JobInfo.Builder(0,new ComponentName(context,OTAService.class))
+                .setPeriodic(intervalValue)
+                .setRequiredNetworkType(JobInfo.NETWORK_TYPE_ANY)
+                .setPersisted(true)
+                .build());
             OTAUtils.toast(R.string.autoupdate_enabled, context);
         } else {
-            WakefulIntentService.cancelAlarms(context);
+            jobScheduler.cancel(0);
             OTAUtils.toast(R.string.autoupdate_disabled, context);
         }
     }
@@ -129,6 +138,6 @@ public final class AppConfig {
 
     public static long getUpdateIntervalTime(Context context) {
         SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(context);
-        return sharedPreferences.getLong(UPDATE_INTERVAL, OTAListener.DEFAULT_INTERVAL_VALUE);
+        return sharedPreferences.getLong(UPDATE_INTERVAL, AlarmManager.INTERVAL_HALF_DAY);
     }
 }

@@ -106,6 +106,5 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 27 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="cwac-wakeful-1.0.5" level="project" />
   </component>
 </module>

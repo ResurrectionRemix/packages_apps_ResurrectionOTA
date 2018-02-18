@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 Chandra Poerwanto
+ * Copyright (C) 2018 Nitrogen OS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,25 +14,34 @@
  * limitations under the License.
  */
 
-package com.resurrection.ota.scheduler;
+package com.resurrection.ota.tasks;
 
-import android.content.Intent;
+import android.app.job.JobParameters;
+import android.app.job.JobService;
 import android.os.AsyncTask;
 
-import com.commonsware.cwac.wakeful.WakefulIntentService;
 import com.resurrection.ota.tasks.CheckUpdateTask;
+import com.resurrection.ota.utils.OTAUtils;
 
-public class OTAService extends WakefulIntentService {
+public class OTAService extends JobService {
 
-    public OTAService() {
-        super("SlimOTA");
-    }
+    public boolean onStartJob(final JobParameters jobParameters) {
 
-    @Override
-    protected void doWakefulWork(Intent intent) {
         CheckUpdateTask otaChecker = CheckUpdateTask.getInstance(true);
         if (!otaChecker.getStatus().equals(AsyncTask.Status.RUNNING)) {
             otaChecker.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR, getApplicationContext());
         }
+
+        return false;
+    }
+
+
+
+
+    @Override
+    public boolean onStopJob(JobParameters jobParameters) {
+
+        return false;
+
     }
 }
