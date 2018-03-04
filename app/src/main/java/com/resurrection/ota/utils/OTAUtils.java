@@ -34,6 +34,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Properties;
 
+import android.content.ActivityNotFoundException;
+
 public final class OTAUtils {
 
     private static final String TAG = "SlimOTA";
@@ -113,7 +115,11 @@ public final class OTAUtils {
 
     public static void launchUrl(String url, Context context) {
         if (!url.isEmpty() && context != null) {
-            context.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
+            try {
+                context.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
+            } catch (ActivityNotFoundException exception){
+                Toast.makeText(context, "No apps are available to download the ROM file", Toast.LENGTH_LONG).show();
+            }
         }
     }
 }
