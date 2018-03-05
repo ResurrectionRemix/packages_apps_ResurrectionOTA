@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Liên kết</string>
   <!-- ROM info -->
+  <string name="latest_version">Bản Cập Nhật có sẵn!\nPhiên bản mới nhất: %1$s</string>
   <string name="unknown">Không rõ</string>
   <string name="system_uptodate">Hệ thống của bạn đã được cập nhật</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">Lần cuối kiểm tra: %1$s</string>
   <string name="last_check_never">Không bao giờ</string>
   <string name="check_update_failed">Không thể kiểm tra cập nhật</string>
+  <string name="update_available">Đã có bản cập nhật!</string>
   <string name="no_update_available">Không có cập nhật có sẵn</string>
   <!-- Update interval -->
   <string name="interval_title">Khoảng thời gian tự động kiểm tra cập nhật</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">Cập nhật tự động được kích hoạt</string>
   <string name="autoupdate_disabled">Cập nhật tự động bị vô hiệu hóa</string>
   <!-- Notification -->
+  <string name="notification_title">Cập nhật ResurrectionRemix OS</string>
+  <string name="notification_message">Một phiên bản mới có sẵn!</string>
+  <string name="resurrection_channel">Thông báo ResurrectionOTA</string>
+  <string name="resurrection_channel_description">Thông báo về bản cập nhật mới ResurrectionRemix OS</string>
   <!-- Dialog -->
   <string name="dialog_message">Đang kiểm tra các cập nhật ROM, vui lòng chờ&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">Không có trình duyệt nào được cài đặt</string>
 </resources>

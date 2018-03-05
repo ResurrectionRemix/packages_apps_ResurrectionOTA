@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Odkazy</string>
   <!-- ROM info -->
+  <string name="latest_version">K dispozícii je aktualizácia! \nPosledná verzia: %1$s</string>
   <string name="unknown">Neznáme</string>
   <string name="system_uptodate">Váš systém je aktuálny</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">Posledná kontrola: %1$s</string>
   <string name="last_check_never">Nikdy</string>
   <string name="check_update_failed">Nieje možné skontrolovať aktualizácie</string>
+  <string name="update_available">K dispozícii je aktualizácia!</string>
   <string name="no_update_available">Neboli nájdené žiadne aktualizácie</string>
   <!-- Update interval -->
   <string name="interval_title">Interval automatickýách aktualizácií</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">Automatické aktualizácie sú povolené</string>
   <string name="autoupdate_disabled">Automatické aktualizácie sú zakázané</string>
   <!-- Notification -->
+  <string name="notification_title">Aktualizácia Resurrection Remix OS</string>
+  <string name="notification_message">Nová verzia je k dispozícii!</string>
+  <string name="resurrection_channel">Upozornenia ResurrectionOTA</string>
+  <string name="resurrection_channel_description">Upozornenia na nové aktualizácie ResurrectionRemix OS</string>
   <!-- Dialog -->
   <string name="dialog_message">Kontrola aktualizácie ROM, čakajte prosím&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">Nie je nainštalovaný žiadny prehliadač</string>
 </resources>

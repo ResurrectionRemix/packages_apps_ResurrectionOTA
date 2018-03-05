@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Σύνδεσμοι</string>
   <!-- ROM info -->
+  <string name="latest_version">Διαθέσιμη ενημέρωση\nΤελευταία έκδοση: %1$s</string>
   <string name="unknown">Άγνωστο</string>
   <string name="system_uptodate">Η συσκευή σας είναι ενημερωμένη</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">Τελευταίος έλεγχος: %1$s</string>
   <string name="last_check_never">Ποτέ</string>
   <string name="check_update_failed">Δεν μπορεί να γίνει έλεγχος για ενημέρωση</string>
+  <string name="update_available">Διαθέσιμη ενημέρωση!</string>
   <string name="no_update_available">Δεν υπάρχουν διαθέσιμες ενημερώσεις</string>
   <!-- Update interval -->
   <string name="interval_title">Χρονικό διάστημα αυτόματης ενημέρωσης</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">Οι αυτόματες ενημερώσεις είναι ενεργοποιημένες</string>
   <string name="autoupdate_disabled">Η αυτόματες ενημερώσεις είναι απενεργοποιημένες</string>
   <!-- Notification -->
+  <string name="notification_title">Ενημέρωση ResurrectionRemix OS</string>
+  <string name="notification_message">Μια νέα έκδοση είναι διαθέσιμη!</string>
+  <string name="resurrection_channel">Ειδοποιήσεις ResurrectionOTA</string>
+  <string name="resurrection_channel_description">Ειδοποιήσεις σχετικά με τις νέες ενημερώσεις ResurrectionRemix OS</string>
   <!-- Dialog -->
   <string name="dialog_message">Ελέγχος για ενημερώσεις, παρακαλώ περιμένετε&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">Δεν υπάρχει εγκατεστημένο πρόγραμμα περιήγησης</string>
 </resources>

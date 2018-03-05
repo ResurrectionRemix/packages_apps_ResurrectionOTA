@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Linkek</string>
   <!-- ROM info -->
+  <string name="latest_version">Frissítés elérhető! \nLegújabb verzió: %1$s</string>
   <string name="unknown">Ismeretlen</string>
   <string name="system_uptodate">A rendszer naprakész</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">Utolsó ellenőrzés: %1$s</string>
   <string name="last_check_never">Soha</string>
   <string name="check_update_failed">Frissítés ellenőrzése sikertelen</string>
+  <string name="update_available">Frissítés elérhető!</string>
   <string name="no_update_available">Nincs elérhető frissítés</string>
   <!-- Update interval -->
   <string name="interval_title">Automatikus frissítési időköz</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">Automatikus frissítés engedélyezve van</string>
   <string name="autoupdate_disabled">Automatikus frissítés le van tiltva</string>
   <!-- Notification -->
+  <string name="notification_title">ResurrectionRemix OS frissítés</string>
+  <string name="notification_message">Új verzió érhető el!</string>
+  <string name="resurrection_channel">ResurrectionOTA értesítések</string>
+  <string name="resurrection_channel_description">Értesítések a ResurrectionRemix OS frissítésekről</string>
   <!-- Dialog -->
   <string name="dialog_message">ROM frissítések keresése, kis türelmet&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">Nincs böngésző telepítve</string>
 </resources>

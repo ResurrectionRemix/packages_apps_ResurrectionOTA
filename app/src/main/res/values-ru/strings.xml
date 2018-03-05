@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Ссылки</string>
   <!-- ROM info -->
+  <string name="latest_version">Доступно обновление!\nПоследняя версия: %1$s</string>
   <string name="unknown">Неизвестно</string>
   <string name="system_uptodate">Ваша система обновлена до последней версии</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">Последняя проверка: %1$s</string>
   <string name="last_check_never">Никогда</string>
   <string name="check_update_failed">Невозможно проверить обновления</string>
+  <string name="update_available">Доступно обновление!</string>
   <string name="no_update_available">Нет доступных обновлений</string>
   <!-- Update interval -->
   <string name="interval_title">Интервал автоматического обновления</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">Автоматическое обновление включено</string>
   <string name="autoupdate_disabled">Автоматическое обновление выключено</string>
   <!-- Notification -->
+  <string name="notification_title">Обновление ResurrectionRemix OS</string>
+  <string name="notification_message">Доступна новая версия!</string>
+  <string name="resurrection_channel">Уведомления ResurrectionOTA</string>
+  <string name="resurrection_channel_description">Уведомления о новых обновлениях ResurrectionRemix OS</string>
   <!-- Dialog -->
   <string name="dialog_message">Проверка обновлений, пожалуйста, подождите&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">Браузер не установлен</string>
 </resources>

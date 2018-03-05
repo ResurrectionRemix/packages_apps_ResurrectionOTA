@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Collegamenti</string>
   <!-- ROM info -->
+  <string name="latest_version">Aggiornamento disponibile! \nL’ultima versione è: %1$s</string>
   <string name="unknown">Sconosciuto</string>
   <string name="system_uptodate">Il tuo sistema è aggiornato</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">Ultimo controllo: %1$s</string>
   <string name="last_check_never">Mai</string>
   <string name="check_update_failed">Non è possibile effettuare la ricerca di aggiornamenti</string>
+  <string name="update_available">Aggiornamento disponibile!</string>
   <string name="no_update_available">Nessun aggiornamento disponibile</string>
   <!-- Update interval -->
   <string name="interval_title">Intervallo aggiornamento automatico</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">Gli aggiornamenti automatici sono abilitati</string>
   <string name="autoupdate_disabled">Gli aggiornamenti automatici sono disabilitati</string>
   <!-- Notification -->
+  <string name="notification_title">Aggiornamento di ResurrectionRemix OS</string>
+  <string name="notification_message">È disponibile una nuova versione!</string>
+  <string name="resurrection_channel">Notifiche di ResurrectionOTA</string>
+  <string name="resurrection_channel_description">Notifiche relative ai nuovi aggiornamenti di ResurrectionRemix OS</string>
   <!-- Dialog -->
   <string name="dialog_message">Ricerca aggiornamenti in corso, attendere prego&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">Nessun browser installato</string>
 </resources>

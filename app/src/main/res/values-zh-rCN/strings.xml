@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">链接</string>
   <!-- ROM info -->
+  <string name="latest_version">存在可用更新！\n最新版本： %1$s</string>
   <string name="unknown">未知</string>
   <string name="system_uptodate">您的系统已是最新版本</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">上次检查更新：%1$s</string>
   <string name="last_check_never">从不</string>
   <string name="check_update_failed">无法检查更新</string>
+  <string name="update_available">存在可用更新！</string>
   <string name="no_update_available">无可用更新</string>
   <!-- Update interval -->
   <string name="interval_title">自动更新间隔</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">自动更新已启用</string>
   <string name="autoupdate_disabled">自动更新已禁用</string>
   <!-- Notification -->
+  <string name="notification_title">ResurrectionRemix OS 系统更新</string>
+  <string name="notification_message">有可用的新版本！</string>
+  <string name="resurrection_channel">ResurrectionOTA 通知提示</string>
+  <string name="resurrection_channel_description">有关 ResurrectionRemix OS 的更新提示</string>
   <!-- Dialog -->
   <string name="dialog_message">正在检查系统更新，请稍候...</string>
   <!-- Toast -->
+  <string name="toast_message">未安装网页浏览器</string>
 </resources>

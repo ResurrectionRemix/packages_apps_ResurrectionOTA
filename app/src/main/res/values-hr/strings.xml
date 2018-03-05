@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Poveznice</string>
   <!-- ROM info -->
+  <string name="latest_version">Dostupno je ažuriranje!\nNajnovija verzija: %1$s</string>
   <string name="unknown">Nepoznato</string>
   <string name="system_uptodate">Vaš je sustav ažuran.</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">Posljednja provjera: %1$s</string>
   <string name="last_check_never">Nikad</string>
   <string name="check_update_failed">Nije moguće provjeriti ažuriranja.</string>
+  <string name="update_available">Dostupno je ažuriranje!</string>
   <string name="no_update_available">Nema dostupnih ažuriranja.</string>
   <!-- Update interval -->
   <string name="interval_title">Interval automatskog ažuriranja</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">Automatsko ažuriranje je omogućeno</string>
   <string name="autoupdate_disabled">Automatsko ažuriranje je onemogućeno</string>
   <!-- Notification -->
+  <string name="notification_title">Ažuriranje Resurrection Remix OS-a</string>
+  <string name="notification_message">Dostupna je nova verzija!</string>
+  <string name="resurrection_channel">ResurrectionOTA obavijesti</string>
+  <string name="resurrection_channel_description">Obavijesti o novim ažuriranjima ResurrectionRemix OS-a</string>
   <!-- Dialog -->
   <string name="dialog_message">Traženje ažuriranja sustava, molimo pričekajte&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">Nema instaliranog preglednika</string>
 </resources>
