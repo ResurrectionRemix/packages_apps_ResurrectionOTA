@@ -1,15 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 22
-    buildToolsVersion "22.0.1"
-
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
     defaultConfig {
-        applicationId "com.fusionjack.slimota"
-        minSdkVersion 21
-        targetSdkVersion 22
-        versionCode 4
-        versionName "5.5.10"
+        applicationId "com.resurrection.ota"
+        minSdkVersion 26
+        targetSdkVersion 27
+        versionCode 6
+        versionName "6.0.0"
     }
     buildTypes {
         release {
