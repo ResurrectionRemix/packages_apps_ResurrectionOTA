@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Tautan</string>
   <!-- ROM info -->
+  <string name="latest_version">Pembaruan tersedia!\nVersi terbaru: %1$s</string>
   <string name="unknown">Tidak diketahui</string>
   <string name="system_uptodate">Sistem anda terbarui</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">Terakhir diperiksa: %1$s</string>
   <string name="last_check_never">Tidak pernah</string>
   <string name="check_update_failed">Tidak dapat memeriksa pembaruan</string>
+  <string name="update_available">Pembaharuan tersedia!</string>
   <string name="no_update_available">Tidak ada pembaruan yang tersedia</string>
   <!-- Update interval -->
   <string name="interval_title">Selang waktu pembaruan otomatis</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">Pembaruan otomatis dihidupkan</string>
   <string name="autoupdate_disabled">Pembaruan otomatis dimatikan</string>
   <!-- Notification -->
+  <string name="notification_title">ResurrectionRemix OS update</string>
+  <string name="notification_message">Versi terbaru telah tersedia!</string>
+  <string name="resurrection_channel">Notifikasi OTA RR</string>
+  <string name="resurrection_channel_description">Notifikasi pembaruan terbaru ROM ResurrectionRemix</string>
   <!-- Dialog -->
   <string name="dialog_message">Memeriksa pembaruan ROM, harap tunggu&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">Tidak ada peramban yang terpasang</string>
 </resources>

@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Länkar</string>
   <!-- ROM info -->
+  <string name="latest_version">Uppdatering tillgänglig\nSenaste version: %1$s</string>
   <string name="unknown">Okänd</string>
   <string name="system_uptodate">Ditt system är uppdaterat</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">Senaste kontroll: %1$s</string>
   <string name="last_check_never">Aldrig</string>
   <string name="check_update_failed">Kan inte söka efter uppdatering</string>
+  <string name="update_available">Uppdatering tillgänglig!</string>
   <string name="no_update_available">Inga uppdateringar tillgängliga</string>
   <!-- Update interval -->
   <string name="interval_title">Intervall för automatisk uppdatering</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">Automatisk uppdatering är aktiverat</string>
   <string name="autoupdate_disabled">Automatisk uppdatering är inaktiverat</string>
   <!-- Notification -->
+  <string name="notification_title">Uppdatering för ResurrectionRemix OS</string>
+  <string name="notification_message">En ny version är tillgänglig!</string>
+  <string name="resurrection_channel">ResurrectionOTA-aviseringar</string>
+  <string name="resurrection_channel_description">Avisera om nya uppdateringar för ResurrectionRemix OS</string>
   <!-- Dialog -->
   <string name="dialog_message">Söker efter uppdateringar, var god vänta&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">Det finns ingen webbläsare installerad</string>
 </resources>

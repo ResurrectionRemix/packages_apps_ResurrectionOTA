@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Linkit</string>
   <!-- ROM info -->
+  <string name="latest_version">Päivitys saatavilla!/nviimeinen versio: %1$s</string>
   <string name="unknown">Tuntematon</string>
   <string name="system_uptodate">Järjestelmäsi on ajan tasalla</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">Viimeisin tarkistus:%1$s</string>
   <string name="last_check_never">Ei koskaan</string>
   <string name="check_update_failed">Ei voida tarkistaa päivityksiä</string>
+  <string name="update_available">Päivitys saatavilla!</string>
   <string name="no_update_available">Päivitystä ei saatavilla</string>
   <!-- Update interval -->
   <string name="interval_title">Automaattisen päivityksen aikaväli</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">Automaattinen päivitys käytössä</string>
   <string name="autoupdate_disabled">Automaattinen päivitys pois käytöstä</string>
   <!-- Notification -->
+  <string name="notification_title">ResurrectuionRemix OS päivitys</string>
+  <string name="notification_message">Uusi versio on saatavilla!</string>
+  <string name="resurrection_channel">ResurrectionOTA ilmoitus</string>
+  <string name="resurrection_channel_description">Ilmoitukset uusista ResurrectionRemix Os päivityksistä</string>
   <!-- Dialog -->
   <string name="dialog_message">Tarkistetaan päivityksiä, odota hetki&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">Nettiselainta ei ole asennettu</string>
 </resources>

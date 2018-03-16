@@ -45,7 +45,7 @@
   <string name="notification_title">ResurrectionRemix OS Update</string>
   <string name="notification_message">Eine neue Version ist verfügbar!</string>
   <string name="resurrection_channel">ResurrectionOTA-Benachrichtigungen</string>
-  <string name="resurrection_channel_description">Benachrichtigungen über neue ResurrectionRemix OS-Updates</string>
+  <string name="resurrection_channel_description">Benachrichtigungen über neue ResurrectionRemix OS Updates</string>
   <!-- Dialog -->
   <string name="dialog_message">Suche nach Aktualisierungen, bitte warten&#8230;</string>
   <!-- Toast -->

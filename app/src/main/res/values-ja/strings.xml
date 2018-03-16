@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">リンク</string>
   <!-- ROM info -->
+  <string name="latest_version">アップデート可能です！\n最新バージョンはこちら:%1$s</string>
   <string name="unknown">不明</string>
   <string name="system_uptodate">システムは最新の状態です</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">前回の更新確認：%1$s</string>
   <string name="last_check_never">なし</string>
   <string name="check_update_failed">アップデートを確認できませんでした</string>
+  <string name="update_available">更新があります！</string>
   <string name="no_update_available">利用可能なアップデートはありません</string>
   <!-- Update interval -->
   <string name="interval_title">自動でアップデートを確認する間隔</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">自動でのアップデート確認は有効です</string>
   <string name="autoupdate_disabled">自動でのアップデート確認は無効です</string>
   <!-- Notification -->
+  <string name="notification_title">Resurrection Remix OS アップデート</string>
+  <string name="notification_message">新しいバージョンが利用可能です！</string>
+  <string name="resurrection_channel">Resurrection OTA通知</string>
+  <string name="resurrection_channel_description">ResurrectionRemix OS更新の通知</string>
   <!-- Dialog -->
   <string name="dialog_message">ROMの更新を確認中...</string>
   <!-- Toast -->
+  <string name="toast_message">ブラウザーがインストールされていません</string>
 </resources>
