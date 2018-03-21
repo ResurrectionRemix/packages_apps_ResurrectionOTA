@@ -34,7 +34,7 @@
   <string name="update_available">Atualização disponível!</string>
   <string name="no_update_available">Não há atualizações disponíveis</string>
   <!-- Update interval -->
-  <string name="interval_title">Intervalo de atualização automática</string>
+  <string name="interval_title">Intervalo de procura automática</string>
   <string name="interval_entry_disable">Desativado</string>
   <string name="interval_entry_1h">A cada hora</string>
   <string name="interval_entry_12h">A cada 12 horas</string>
@@ -42,12 +42,12 @@
   <string name="autoupdate_enabled">A atualização automática está ativada</string>
   <string name="autoupdate_disabled">A atualização automática está desativada</string>
   <!-- Notification -->
-  <string name="notification_title">Atualização da ResurrectionRemix</string>
+  <string name="notification_title">Atualização da Resurrection Remix</string>
   <string name="notification_message">Nova versão disponível!</string>
   <string name="resurrection_channel">Notificações de ResurrectionOTA</string>
-  <string name="resurrection_channel_description">Notificações sobre novas atualizações da ResurrectionRemix</string>
+  <string name="resurrection_channel_description">Notificações sobre novas atualizações da Resurrection Remix</string>
   <!-- Dialog -->
-  <string name="dialog_message">A procurar atualizações da ROM, aguarde&#8230;</string>
+  <string name="dialog_message">A procurar atualizações da ROM. Por favor, aguarde&#8230;</string>
   <!-- Toast -->
   <string name="toast_message">Não há nenhum navegador instalado</string>
 </resources>

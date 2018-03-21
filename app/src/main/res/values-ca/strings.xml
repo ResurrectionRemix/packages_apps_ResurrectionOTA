@@ -23,7 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">Enllaços</string>
   <!-- ROM info -->
-  <string name="latest_version">Hi han actualizaciones disponibles!\nLa última versió és</string>
+  <string name="latest_version">Hi han actualizaciones disponibles!\nLa última versió és: %1$s</string>
   <string name="unknown">Desconegut</string>
   <string name="system_uptodate">El teu sistema està actualitzat</string>
   <!-- Check update -->
