@@ -23,6 +23,7 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">ลิงก์</string>
   <!-- ROM info -->
+  <string name="latest_version">อัปเดตพร้อมใช้งาน!\nเวอร์ชั่นล่าสุด: %1$s</string>
   <string name="unknown">ไม่รู้จัก</string>
   <string name="system_uptodate">ระบบของคุณเป็นเวอร์ชั่นล่าสุดแล้ว</string>
   <!-- Check update -->
@@ -48,4 +49,5 @@
   <!-- Dialog -->
   <string name="dialog_message">กำลังตรวจสอบการอัพเดต, กรุณารอสักครู่ ...</string>
   <!-- Toast -->
+  <string name="toast_message">ไม่มีการติดตั้งเบราเซอร์</string>
 </resources>
