@@ -23,6 +23,7 @@
   <string name="ota_category">تحديثات المصدر</string>
   <string name="links_category">الروابط</string>
   <!-- ROM info -->
+  <string name="latest_version">تحديث متوفر!/nأحدث اصدار: ٪1$s</string>
   <string name="unknown">مجهول</string>
   <string name="system_uptodate">النظام الخاص بك محدث</string>
   <!-- Check update -->
@@ -30,6 +31,7 @@
   <string name="last_check_summary">آخر فحص: %1$s</string>
   <string name="last_check_never">أبداً</string>
   <string name="check_update_failed">لا يمكن التحقق من التحديث</string>
+  <string name="update_available">تحديث متوفر!</string>
   <string name="no_update_available">لا توجد تحديثات متوفرة</string>
   <!-- Update interval -->
   <string name="interval_title">التحديث التلقائي</string>
@@ -40,7 +42,12 @@
   <string name="autoupdate_enabled">تفعيل التحديث التلقائي</string>
   <string name="autoupdate_disabled">ايقاف التحديث التلقائي</string>
   <!-- Notification -->
+  <string name="notification_title">تحديث لنظام تشغيل ريزيريكشين ريميكس</string>
+  <string name="notification_message">يتوفر إصدار جديد!</string>
+  <string name="resurrection_channel">إشعارات التحديث عبر الهواء لنظام التشغيل ريزيريكشن</string>
+  <string name="resurrection_channel_description">إشعارات حول تحديثات نظام التشغيل</string>
   <!-- Dialog -->
   <string name="dialog_message">يتم البحث عن تحديثات للنظام, برجاء الانتظار&#8230;</string>
   <!-- Toast -->
+  <string name="toast_message">لا يوجد متصفح مًثبت</string>
 </resources>
