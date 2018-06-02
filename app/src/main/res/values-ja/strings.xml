@@ -28,7 +28,7 @@
   <string name="system_uptodate">システムは最新の状態です</string>
   <!-- Check update -->
   <string name="check_update_title">アップデートを確認</string>
-  <string name="last_check_summary">前回の更新確認：%1$s</string>
+  <string name="last_check_summary">前回の更新確認 : %1$s</string>
   <string name="last_check_never">なし</string>
   <string name="check_update_failed">アップデートを確認できませんでした</string>
   <string name="update_available">更新があります！</string>
@@ -49,5 +49,5 @@
   <!-- Dialog -->
   <string name="dialog_message">ROMの更新を確認中...</string>
   <!-- Toast -->
-  <string name="toast_message">ブラウザーがインストールされていません</string>
+  <string name="toast_message">ブラウザがインストールされていません</string>
 </resources>
