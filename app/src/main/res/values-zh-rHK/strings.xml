@@ -31,7 +31,7 @@
   <string name="last_check_summary">最後檢查 ︰ %1$s</string>
   <string name="last_check_never">永不</string>
   <string name="check_update_failed">無法檢查更新</string>
-  <string name="update_available">可用的更新 ！</string>
+  <string name="update_available">有可用的更新！</string>
   <string name="no_update_available">沒有可用的更新</string>
   <!-- Update interval -->
   <string name="interval_title">自動更新頻率</string>
@@ -49,5 +49,5 @@
   <!-- Dialog -->
   <string name="dialog_message">正在檢查 ROM 更新，請稍候...</string>
   <!-- Toast -->
-  <string name="toast_message">沒有安裝瀏覽器</string>
+  <string name="toast_message">沒有已安裝的瀏覽器</string>
 </resources>
