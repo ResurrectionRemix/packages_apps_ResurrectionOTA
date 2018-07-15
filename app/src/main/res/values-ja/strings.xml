@@ -23,12 +23,12 @@
   <string name="ota_category">OTA</string>
   <string name="links_category">リンク</string>
   <!-- ROM info -->
-  <string name="latest_version">アップデート可能です！\n最新バージョン: %1$s</string>
+  <string name="latest_version">アップデート可能です！\n最新バージョン：%1$s</string>
   <string name="unknown">不明</string>
   <string name="system_uptodate">システムは最新の状態です</string>
   <!-- Check update -->
   <string name="check_update_title">アップデートを確認</string>
-  <string name="last_check_summary">前回の更新確認 : %1$s</string>
+  <string name="last_check_summary">前回の更新確認：%1$s</string>
   <string name="last_check_never">なし</string>
   <string name="check_update_failed">アップデートを確認できませんでした</string>
   <string name="update_available">更新があります！</string>
