@@ -49,5 +49,5 @@
   <!-- Dialog -->
   <string name="dialog_message">Sprawdzanie dostępności aktualizacji, proszę czekać&#8230;</string>
   <!-- Toast -->
-  <string name="toast_message">Nie zainstalowano przeglądarki</string>
+  <string name="toast_message">Brak zainsalowanej przeglądarki</string>
 </resources>
