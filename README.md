@@ -1,4 +1,4 @@
-ResurrectionOTA
+ResurrectionOTA - An Amazing Tool
 -------
 A very simple OTA checker with Android Settings look and feel.
 
